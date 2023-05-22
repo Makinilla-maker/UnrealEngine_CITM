@@ -1,0 +1,6 @@
+2023/04/12-02:15:47.159 4b4c Creating DB E:/OwnGames/ZombiesGame/ZombieGame/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/04/12-02:15:47.169 4b4c Reusing MANIFEST E:/OwnGames/ZombiesGame/ZombieGame/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/12-02:18:01.693 1cb0 Level-0 table #5: started
+2023/04/12-02:18:01.698 1cb0 Level-0 table #5: 7918 bytes OK
+2023/04/12-02:18:01.700 1cb0 Delete type=0 #3
+2023/04/12-02:18:01.701 1cb0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
