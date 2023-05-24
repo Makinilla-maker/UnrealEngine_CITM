@@ -5596,3 +5596,994 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2023.05.23-19.38.40:248][514]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/_ZombieProject/Maps/Oriol.Oriol:PersistentLevel.StaticMeshActor_UAID_309C2303EAC2638501_1354741042
 [2023.05.23-19.38.40:248][514]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/_ZombieProject/Maps/Oriol.Oriol:PersistentLevel.StaticMeshActor_UAID_309C2303EAC2698501_1920244119
 [2023.05.23-19.38.40:248][514]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/_ZombieProject/Maps/Oriol.Oriol:PersistentLevel.StaticMeshActor_UAID_309C2303EAC2698501_1920249120
+[2023.05.23-20.10.19:320][302]LogDerivedDataCache: C:/Users/valve/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.276 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 882 files in 1578 folders with total size 77 MiB.
+[2023.05.23-21.01.30:161][506]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2023.05.23-21.01.30:297][506]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2023.05.23-21.01.31:450][506]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-21.01.31:522][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-21.10.20:210][ 78]LogDerivedDataCache: C:/Users/valve/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.149 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 882 files in 1578 folders with total size 77 MiB.
+[2023.05.23-22.10.20:218][323]LogDerivedDataCache: C:/Users/valve/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.156 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 882 files in 1578 folders with total size 77 MiB.
+[2023.05.23-22.38.24:038][236]LogViewport: Scene viewport resized to 1564x911, mode Windowed.
+[2023.05.23-22.38.27:197][485]LogViewport: Scene viewport resized to 1573x911, mode Windowed.
+[2023.05.23-22.38.27:240][487]LogViewport: Scene viewport resized to 1600x911, mode Windowed.
+[2023.05.23-22.38.27:285][489]LogViewport: Scene viewport resized to 1633x911, mode Windowed.
+[2023.05.23-22.38.27:328][491]LogViewport: Scene viewport resized to 1662x911, mode Windowed.
+[2023.05.23-22.38.27:374][493]LogViewport: Scene viewport resized to 1681x911, mode Windowed.
+[2023.05.23-22.38.27:453][498]LogViewport: Scene viewport resized to 1686x911, mode Windowed.
+[2023.05.23-22.38.27:497][500]LogViewport: Scene viewport resized to 1700x911, mode Windowed.
+[2023.05.23-22.38.27:544][502]LogViewport: Scene viewport resized to 1729x911, mode Windowed.
+[2023.05.23-22.38.27:589][504]LogViewport: Scene viewport resized to 1753x911, mode Windowed.
+[2023.05.23-22.38.27:916][532]LogViewport: Scene viewport resized to 1759x911, mode Windowed.
+[2023.05.23-22.38.27:959][534]LogViewport: Scene viewport resized to 1768x911, mode Windowed.
+[2023.05.23-22.38.28:004][536]LogViewport: Scene viewport resized to 1775x911, mode Windowed.
+[2023.05.23-22.38.28:045][538]LogViewport: Scene viewport resized to 1777x911, mode Windowed.
+[2023.05.23-22.38.28:306][560]LogViewport: Scene viewport resized to 1773x911, mode Windowed.
+[2023.05.23-22.38.28:349][562]LogViewport: Scene viewport resized to 1768x911, mode Windowed.
+[2023.05.23-22.38.28:401][565]LogViewport: Scene viewport resized to 1764x911, mode Windowed.
+[2023.05.23-22.38.28:453][568]LogViewport: Scene viewport resized to 1763x911, mode Windowed.
+[2023.05.23-22.38.28:497][570]LogViewport: Scene viewport resized to 1753x911, mode Windowed.
+[2023.05.23-22.38.28:541][572]LogViewport: Scene viewport resized to 1746x911, mode Windowed.
+[2023.05.23-22.38.28:584][574]LogViewport: Scene viewport resized to 1743x911, mode Windowed.
+[2023.05.23-22.38.30:952][744]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.05.23-22.38.30:953][744]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.05.23-22.38.31:445][744]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.05.23-22.38.31:445][744]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.05.23-22.38.34:537][750]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.05.23-22.38.47:957][764]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.23-22.38.48:000][764]LogContentBundle: [Oriol(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.05.23-22.38.48:050][764]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.23-22.38.48:050][764]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.23-22.38.48:050][764]LogWorldPartition: Display: GetPartitionedActors took 50 us (total: 463 us)
+[2023.05.23-22.38.48:050][764]LogWorldPartition: Display: GenerateStreaming took 1 ms (total: 13 ms)
+[2023.05.23-22.38.48:121][764]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.23-22.38.48:192][764]PIE: New page: PIE session: Oriol (24 may. 2023 2:38:48)
+[2023.05.23-22.38.48:282][764]LogPlayLevel: Creating play world package: /Game/_ZombieProject/Maps/UEDPIE_0_Oriol
+[2023.05.23-22.38.48:885][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.603074s)
+[2023.05.23-22.38.48:885][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_ZombieProject/Maps/Oriol.Oriol to /Game/_ZombieProject/Maps/UEDPIE_0_Oriol.Oriol (0.603373s)
+[2023.05.23-22.38.48:895][764]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.23-22.38.49:006][764]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.23-22.38.49:113][764]LogAIModule: Creating AISystem for world Oriol
+[2023.05.23-22.38.49:247][764]LogWorldPartition: ULevel::OnLevelLoaded(Oriol)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.05.23-22.38.49:247][764]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.23-22.38.49:254][764]LogWorldPartition: UWorldPartition::Initialize(Asset=Oriol, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.05.23-22.38.49:259][764]LogContentBundle: [Oriol(Standalone)] Creating new contrainer.
+[2023.05.23-22.38.49:259][764]LogWorldPartition: Display: WorldPartition initialize took 11 ms (total: 3.47 sec)
+[2023.05.23-22.38.49:265][764]LogPlayLevel: PIE: World Init took: (0.380490s)
+[2023.05.23-22.38.50:584][764]LogUObjectHash: Compacting FUObjectHashTables data took   8.51ms
+[2023.05.23-22.38.50:644][764]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2023.05.23-22.38.50:666][764]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.23-22.38.50:666][764]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.23-22.38.50:666][764]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.23-22.38.50:666][764]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.23-22.38.50:666][764]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.23-22.38.50:666][764]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.23-22.38.50:666][764]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.23-22.38.50:666][764]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.23-22.38.50:688][764]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.23-22.38.50:688][764]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.23-22.38.50:688][764]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.23-22.38.50:717][764]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.23-22.38.50:753][764]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (PRO X)
+[2023.05.23-22.38.50:782][764]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.23-22.38.50:782][764]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.23-22.38.50:788][764]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.23-22.38.50:804][764]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2023.05.23-22.38.50:804][764]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2023.05.23-22.38.50:808][764]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2023.05.23-22.38.50:808][764]LogInit: FAudioDevice initialized with ID 26.
+[2023.05.23-22.38.50:808][764]LogAudio: Display: Audio Device (ID: 26) registered with world 'Oriol'.
+[2023.05.23-22.38.50:808][764]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2023.05.23-22.38.50:808][764]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2023.05.23-22.38.50:831][764]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=26
+[2023.05.23-22.38.50:934][764]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.05.23-22.38.51:270][764]LogWorld: Bringing World /Game/_ZombieProject/Maps/UEDPIE_0_Oriol.Oriol up for play (max tick rate 0) at 2023.05.24-00.38.51
+[2023.05.23-22.38.51:365][764]LogWorld: Bringing up level for play took: 0.418082
+[2023.05.23-22.38.51:496][764]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2023.05.23-22.38.51:708][764]PIE: Server logged in
+[2023.05.23-22.38.51:729][764]PIE: Play in editor total start time 3,729 seconds.
+[2023.05.23-22.38.52:228][764]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.38.52:229][764]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.38.52:230][764]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.38.52:231][764]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.38.52:232][764]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.38.52:233][764]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.38.52:233][764]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.38.52:234][764]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.38.52:246][764]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.38.52:247][764]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.38.52:248][764]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.38.52:250][764]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.38.53:863][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.38.53:864][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.38.53:865][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.38.53:865][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.38.53:867][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.38.53:868][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.38.53:869][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.38.53:870][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.38.53:870][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.38.53:871][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.38.53:872][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.38.53:874][765]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.38.58:289][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-22.38.58:289][108]LogWorld: BeginTearingDown for /Game/_ZombieProject/Maps/UEDPIE_0_Oriol
+[2023.05.23-22.38.58:313][108]LogWorld: UWorld::CleanupWorld for Oriol, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-22.38.58:325][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-22.38.58:325][108]LogContentBundle: [Oriol(Standalone)] Deleting container.
+[2023.05.23-22.38.58:416][108]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.23-22.38.58:438][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-22.38.58:544][108]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.23-22.38.58:564][108]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2023.05.23-22.38.58:580][108]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.05.23-22.38.58:587][108]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.05.23-22.38.58:600][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-22.38.58:711][108]LogUObjectHash: Compacting FUObjectHashTables data took  12.53ms
+[2023.05.23-22.38.58:759][108]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.38.58:776][109]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2023.05.23-22.38.58:807][109]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.05:289][680]Cmd: DUPLICATE
+[2023.05.23-22.39.05:290][680]Cmd: ACTOR DUPLICATE
+[2023.05.23-22.39.05:722][680]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.14:208][362]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.23-22.39.14:217][362]LogContentBundle: [Oriol(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.05.23-22.39.14:221][362]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.23-22.39.14:221][362]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.23-22.39.14:221][362]LogWorldPartition: Display: GetPartitionedActors took 18 us (total: 481 us)
+[2023.05.23-22.39.14:221][362]LogWorldPartition: Display: GenerateStreaming took 500 us (total: 13 ms)
+[2023.05.23-22.39.14:221][362]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.23-22.39.14:222][362]PIE: New page: PIE session: Oriol (24 may. 2023 2:39:14)
+[2023.05.23-22.39.14:222][362]LogPlayLevel: Creating play world package: /Game/_ZombieProject/Maps/UEDPIE_0_Oriol
+[2023.05.23-22.39.14:241][362]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019320s)
+[2023.05.23-22.39.14:241][362]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_ZombieProject/Maps/Oriol.Oriol to /Game/_ZombieProject/Maps/UEDPIE_0_Oriol.Oriol (0.019368s)
+[2023.05.23-22.39.14:241][362]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.23-22.39.14:241][362]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.23-22.39.14:242][362]LogAIModule: Creating AISystem for world Oriol
+[2023.05.23-22.39.14:243][362]LogWorldPartition: ULevel::OnLevelLoaded(Oriol)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.05.23-22.39.14:243][362]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.23-22.39.14:243][362]LogWorldPartition: UWorldPartition::Initialize(Asset=Oriol, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.05.23-22.39.14:247][362]LogContentBundle: [Oriol(Standalone)] Creating new contrainer.
+[2023.05.23-22.39.14:248][362]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 3.48 sec)
+[2023.05.23-22.39.14:248][362]LogPlayLevel: PIE: World Init took: (0.006566s)
+[2023.05.23-22.39.14:301][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.05.23-22.39.14:304][362]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2023.05.23-22.39.14:304][362]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.23-22.39.14:304][362]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.23-22.39.14:304][362]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.23-22.39.14:304][362]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.23-22.39.14:304][362]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.23-22.39.14:304][362]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.23-22.39.14:305][362]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.23-22.39.14:305][362]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.23-22.39.14:305][362]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.23-22.39.14:305][362]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.23-22.39.14:305][362]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.23-22.39.14:316][362]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.23-22.39.14:342][362]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (PRO X)
+[2023.05.23-22.39.14:343][362]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.23-22.39.14:343][362]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.23-22.39.14:343][362]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.23-22.39.14:344][362]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2023.05.23-22.39.14:344][362]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2023.05.23-22.39.14:365][362]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2023.05.23-22.39.14:365][362]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2023.05.23-22.39.14:366][362]LogInit: FAudioDevice initialized with ID 27.
+[2023.05.23-22.39.14:366][362]LogAudio: Display: Audio Device (ID: 27) registered with world 'Oriol'.
+[2023.05.23-22.39.14:366][362]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2023.05.23-22.39.14:370][362]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.05.23-22.39.14:378][362]LogWorld: Bringing World /Game/_ZombieProject/Maps/UEDPIE_0_Oriol.Oriol up for play (max tick rate 0) at 2023.05.24-00.39.14
+[2023.05.23-22.39.14:378][362]LogWorld: Bringing up level for play took: 0.008489
+[2023.05.23-22.39.14:381][362]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2023.05.23-22.39.14:386][362]PIE: Server logged in
+[2023.05.23-22.39.14:390][362]PIE: Play in editor total start time 0,17 seconds.
+[2023.05.23-22.39.14:421][362]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.14:422][362]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.14:423][362]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.14:439][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.14:439][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.14:439][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.14:439][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.14:439][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.14:439][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.14:439][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.14:439][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.14:439][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.14:454][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.14:455][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.14:455][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.14:456][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.14:457][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.14:457][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.14:458][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.14:458][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.14:459][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.14:459][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.14:460][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.14:462][363]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.17:375][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-22.39.17:375][603]LogWorld: BeginTearingDown for /Game/_ZombieProject/Maps/UEDPIE_0_Oriol
+[2023.05.23-22.39.17:375][603]LogWorld: UWorld::CleanupWorld for Oriol, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-22.39.17:376][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-22.39.17:376][603]LogContentBundle: [Oriol(Standalone)] Deleting container.
+[2023.05.23-22.39.17:380][603]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.23-22.39.17:387][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-22.39.17:443][603]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.23-22.39.17:443][603]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2023.05.23-22.39.17:443][603]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2023.05.23-22.39.17:445][603]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2023.05.23-22.39.17:451][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-22.39.17:456][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.05.23-22.39.17:502][603]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.17:519][604]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2023.05.23-22.39.17:545][604]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.21:609][930]Cmd: DUPLICATE
+[2023.05.23-22.39.21:610][930]Cmd: ACTOR DUPLICATE
+[2023.05.23-22.39.21:703][930]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.39:686][246]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.23-22.39.39:694][246]LogContentBundle: [Oriol(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.05.23-22.39.39:700][246]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.23-22.39.39:700][246]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.23-22.39.39:700][246]LogWorldPartition: Display: GetPartitionedActors took 18 us (total: 500 us)
+[2023.05.23-22.39.39:700][246]LogWorldPartition: Display: GenerateStreaming took 830 us (total: 14 ms)
+[2023.05.23-22.39.39:701][246]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.23-22.39.39:701][246]PIE: New page: PIE session: Oriol (24 may. 2023 2:39:39)
+[2023.05.23-22.39.39:707][246]LogPlayLevel: Creating play world package: /Game/_ZombieProject/Maps/UEDPIE_0_Oriol
+[2023.05.23-22.39.39:725][246]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018247s)
+[2023.05.23-22.39.39:725][246]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_ZombieProject/Maps/Oriol.Oriol to /Game/_ZombieProject/Maps/UEDPIE_0_Oriol.Oriol (0.018297s)
+[2023.05.23-22.39.39:725][246]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.23-22.39.39:725][246]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.23-22.39.39:726][246]LogAIModule: Creating AISystem for world Oriol
+[2023.05.23-22.39.39:726][246]LogWorldPartition: ULevel::OnLevelLoaded(Oriol)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.05.23-22.39.39:726][246]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.23-22.39.39:726][246]LogWorldPartition: UWorldPartition::Initialize(Asset=Oriol, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.05.23-22.39.39:731][246]LogContentBundle: [Oriol(Standalone)] Creating new contrainer.
+[2023.05.23-22.39.39:731][246]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 3.48 sec)
+[2023.05.23-22.39.39:731][246]LogPlayLevel: PIE: World Init took: (0.005944s)
+[2023.05.23-22.39.39:764][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.05.23-22.39.39:768][246]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2023.05.23-22.39.39:768][246]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.23-22.39.39:768][246]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.23-22.39.39:768][246]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.23-22.39.39:768][246]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.23-22.39.39:768][246]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.23-22.39.39:768][246]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.23-22.39.39:768][246]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.23-22.39.39:768][246]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.23-22.39.39:769][246]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.23-22.39.39:769][246]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.23-22.39.39:769][246]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.23-22.39.39:771][246]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.23-22.39.39:794][246]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (PRO X)
+[2023.05.23-22.39.39:795][246]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.23-22.39.39:795][246]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.23-22.39.39:795][246]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.23-22.39.39:795][246]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2023.05.23-22.39.39:795][246]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2023.05.23-22.39.39:798][246]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2023.05.23-22.39.39:798][246]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2023.05.23-22.39.39:798][246]LogInit: FAudioDevice initialized with ID 28.
+[2023.05.23-22.39.39:798][246]LogAudio: Display: Audio Device (ID: 28) registered with world 'Oriol'.
+[2023.05.23-22.39.39:798][246]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2023.05.23-22.39.39:802][246]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.05.23-22.39.39:811][246]LogWorld: Bringing World /Game/_ZombieProject/Maps/UEDPIE_0_Oriol.Oriol up for play (max tick rate 0) at 2023.05.24-00.39.39
+[2023.05.23-22.39.39:812][246]LogWorld: Bringing up level for play took: 0.009410
+[2023.05.23-22.39.39:815][246]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2023.05.23-22.39.39:820][246]PIE: Server logged in
+[2023.05.23-22.39.39:821][246]PIE: Play in editor total start time 0,127 seconds.
+[2023.05.23-22.39.39:919][246]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.39:920][246]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.39:920][246]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.39:921][246]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.39:921][246]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.39:922][246]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.39:922][246]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.39:923][246]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.39:923][246]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.39:924][246]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.39:924][246]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.39:926][246]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.39:926][246]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.40:052][247]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.40:054][247]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.40:054][247]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.40:054][247]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.40:055][247]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.40:056][247]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.40:057][247]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.40:058][247]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.40:059][247]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.40:059][247]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.40:060][247]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.40:062][247]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.40:063][247]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.46:027][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-22.39.46:027][774]LogWorld: BeginTearingDown for /Game/_ZombieProject/Maps/UEDPIE_0_Oriol
+[2023.05.23-22.39.46:028][774]LogWorld: UWorld::CleanupWorld for Oriol, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-22.39.46:029][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-22.39.46:029][774]LogContentBundle: [Oriol(Standalone)] Deleting container.
+[2023.05.23-22.39.46:033][774]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.23-22.39.46:039][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-22.39.46:074][774]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.23-22.39.46:074][774]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2023.05.23-22.39.46:074][774]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.05.23-22.39.46:079][774]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.05.23-22.39.46:084][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-22.39.46:093][774]LogUObjectHash: Compacting FUObjectHashTables data took   5.92ms
+[2023.05.23-22.39.46:138][774]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.46:164][775]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2023.05.23-22.39.46:188][775]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.39.51:971][259]Cmd: DUPLICATE
+[2023.05.23-22.39.51:971][259]Cmd: ACTOR DUPLICATE
+[2023.05.23-22.39.52:016][259]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.40.04:495][260]Cmd: DUPLICATE
+[2023.05.23-22.40.04:495][260]Cmd: ACTOR DUPLICATE
+[2023.05.23-22.40.04:534][260]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.40.07:022][465]Cmd: DUPLICATE
+[2023.05.23-22.40.07:022][465]Cmd: ACTOR DUPLICATE
+[2023.05.23-22.40.07:067][465]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.40.09:347][656]Cmd: DUPLICATE
+[2023.05.23-22.40.09:347][656]Cmd: ACTOR DUPLICATE
+[2023.05.23-22.40.09:387][656]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.40.13:055][966]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.23-22.40.13:063][966]LogContentBundle: [Oriol(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.05.23-22.40.13:067][966]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.23-22.40.13:067][966]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.23-22.40.13:067][966]LogWorldPartition: Display: GetPartitionedActors took 13 us (total: 513 us)
+[2023.05.23-22.40.13:067][966]LogWorldPartition: Display: GenerateStreaming took 497 us (total: 14 ms)
+[2023.05.23-22.40.13:068][966]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.23-22.40.13:068][966]PIE: New page: PIE session: Oriol (24 may. 2023 2:40:13)
+[2023.05.23-22.40.13:076][966]LogPlayLevel: Creating play world package: /Game/_ZombieProject/Maps/UEDPIE_0_Oriol
+[2023.05.23-22.40.13:094][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017784s)
+[2023.05.23-22.40.13:094][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_ZombieProject/Maps/Oriol.Oriol to /Game/_ZombieProject/Maps/UEDPIE_0_Oriol.Oriol (0.017842s)
+[2023.05.23-22.40.13:094][966]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.23-22.40.13:094][966]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.23-22.40.13:095][966]LogAIModule: Creating AISystem for world Oriol
+[2023.05.23-22.40.13:096][966]LogWorldPartition: ULevel::OnLevelLoaded(Oriol)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.05.23-22.40.13:096][966]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.23-22.40.13:096][966]LogWorldPartition: UWorldPartition::Initialize(Asset=Oriol, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.05.23-22.40.13:100][966]LogContentBundle: [Oriol(Standalone)] Creating new contrainer.
+[2023.05.23-22.40.13:100][966]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 3.49 sec)
+[2023.05.23-22.40.13:100][966]LogPlayLevel: PIE: World Init took: (0.005883s)
+[2023.05.23-22.40.13:144][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.05.23-22.40.13:150][966]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2023.05.23-22.40.13:150][966]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.23-22.40.13:150][966]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.23-22.40.13:150][966]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.23-22.40.13:151][966]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.23-22.40.13:151][966]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.23-22.40.13:151][966]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.23-22.40.13:151][966]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.23-22.40.13:151][966]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.23-22.40.13:151][966]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.23-22.40.13:151][966]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.23-22.40.13:151][966]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.23-22.40.13:153][966]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.23-22.40.13:174][966]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (PRO X)
+[2023.05.23-22.40.13:175][966]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.23-22.40.13:175][966]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.23-22.40.13:175][966]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.23-22.40.13:175][966]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2023.05.23-22.40.13:175][966]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2023.05.23-22.40.13:179][966]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2023.05.23-22.40.13:179][966]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2023.05.23-22.40.13:179][966]LogInit: FAudioDevice initialized with ID 29.
+[2023.05.23-22.40.13:179][966]LogAudio: Display: Audio Device (ID: 29) registered with world 'Oriol'.
+[2023.05.23-22.40.13:179][966]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2023.05.23-22.40.13:183][966]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.05.23-22.40.13:190][966]LogWorld: Bringing World /Game/_ZombieProject/Maps/UEDPIE_0_Oriol.Oriol up for play (max tick rate 0) at 2023.05.24-00.40.13
+[2023.05.23-22.40.13:191][966]LogWorld: Bringing up level for play took: 0.008047
+[2023.05.23-22.40.13:193][966]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2023.05.23-22.40.13:197][966]PIE: Server logged in
+[2023.05.23-22.40.13:199][966]PIE: Play in editor total start time 0,135 seconds.
+[2023.05.23-22.40.13:266][966]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.40.13:267][966]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.40.13:267][966]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.40.13:268][966]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.40.13:269][966]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.40.13:269][966]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.40.13:270][966]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.40.13:270][966]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.40.13:271][966]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.40.13:271][966]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.40.13:272][966]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.40.13:272][966]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.40.13:274][966]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.40.13:310][967]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.40.13:310][967]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.40.13:311][967]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.40.13:311][967]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.40.13:312][967]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.40.13:312][967]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.40.13:313][967]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.40.13:313][967]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.40.13:314][967]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.40.13:314][967]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.40.13:315][967]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.40.13:315][967]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.40.13:317][967]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.40.15:350][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-22.40.15:350][128]LogWorld: BeginTearingDown for /Game/_ZombieProject/Maps/UEDPIE_0_Oriol
+[2023.05.23-22.40.15:351][128]LogWorld: UWorld::CleanupWorld for Oriol, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-22.40.15:354][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-22.40.15:354][128]LogContentBundle: [Oriol(Standalone)] Deleting container.
+[2023.05.23-22.40.15:358][128]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.23-22.40.15:364][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-22.40.15:415][128]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.23-22.40.15:415][128]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2023.05.23-22.40.15:415][128]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.05.23-22.40.15:417][128]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.05.23-22.40.15:425][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-22.40.15:429][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.05.23-22.40.15:476][128]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.40.15:492][129]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2023.05.23-22.40.15:519][129]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.40.44:942][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.05.23-22.40.44:983][870]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/_ZombieProject/Maps/Oriol/6/55/0NGBR252MQ4WSPOVAHDM2G_Auto0
+[2023.05.23-22.40.44:993][870]LogSavePackage: Moving 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/0NGBR252MQ4WSPOVAHDM2G_Auto09C6E9595412F3C782A76E18110CD5E34.tmp' to 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/Autosaves/Game/__ExternalActors__/_ZombieProject/Maps/Oriol/6/55/0NGBR252MQ4WSPOVAHDM2G_Auto0.uasset'
+[2023.05.23-22.40.45:032][870]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/_ZombieProject/Maps/Oriol/4/ZW/ATKT98AOX5VPZRN2NSAOUY_Auto0
+[2023.05.23-22.40.45:032][870]LogSavePackage: Moving 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/ATKT98AOX5VPZRN2NSAOUY_Auto0C198D75A4A346EC17A0506A0349B3756.tmp' to 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/Autosaves/Game/__ExternalActors__/_ZombieProject/Maps/Oriol/4/ZW/ATKT98AOX5VPZRN2NSAOUY_Auto0.uasset'
+[2023.05.23-22.40.45:036][870]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/_ZombieProject/Maps/Oriol/3/XJ/0AZ0850PCDM7Y7CK5XVVC5_Auto0
+[2023.05.23-22.40.45:036][870]LogSavePackage: Moving 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/0AZ0850PCDM7Y7CK5XVVC5_Auto0CAF4F8F54220247A480EC891BAB913D8.tmp' to 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/Autosaves/Game/__ExternalActors__/_ZombieProject/Maps/Oriol/3/XJ/0AZ0850PCDM7Y7CK5XVVC5_Auto0.uasset'
+[2023.05.23-22.40.45:039][870]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/_ZombieProject/Maps/Oriol/9/3V/CQRSAVZHAS4LH3TWO54T7S_Auto0
+[2023.05.23-22.40.45:039][870]LogSavePackage: Moving 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/CQRSAVZHAS4LH3TWO54T7S_Auto0F84C8FB44A724482833062831611DF54.tmp' to 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/Autosaves/Game/__ExternalActors__/_ZombieProject/Maps/Oriol/9/3V/CQRSAVZHAS4LH3TWO54T7S_Auto0.uasset'
+[2023.05.23-22.40.45:043][870]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/_ZombieProject/Maps/Oriol/7/H7/7RIL1OJX92ZGQ6S3T0I9RP_Auto0
+[2023.05.23-22.40.45:043][870]LogSavePackage: Moving 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/7RIL1OJX92ZGQ6S3T0I9RP_Auto0256E88E6455FEEBDA26DA58F03A99C2A.tmp' to 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/Autosaves/Game/__ExternalActors__/_ZombieProject/Maps/Oriol/7/H7/7RIL1OJX92ZGQ6S3T0I9RP_Auto0.uasset'
+[2023.05.23-22.40.45:047][870]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/_ZombieProject/Maps/Oriol/5/43/43J9O94J0AJFD37QU1G5K2_Auto0
+[2023.05.23-22.40.45:047][870]LogSavePackage: Moving 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/43J9O94J0AJFD37QU1G5K2_Auto085A363B24DFBEBD9880764AA297834F3.tmp' to 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/Autosaves/Game/__ExternalActors__/_ZombieProject/Maps/Oriol/5/43/43J9O94J0AJFD37QU1G5K2_Auto0.uasset'
+[2023.05.23-22.40.45:051][870]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/_ZombieProject/Maps/Oriol/8/0F/6YTKCCHUR6CIOYO6KKG159_Auto0
+[2023.05.23-22.40.45:051][870]LogSavePackage: Moving 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/6YTKCCHUR6CIOYO6KKG159_Auto07D0F16AE4CC9CF27CF69C7B12293080C.tmp' to 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/Autosaves/Game/__ExternalActors__/_ZombieProject/Maps/Oriol/8/0F/6YTKCCHUR6CIOYO6KKG159_Auto0.uasset'
+[2023.05.23-22.40.45:071][870]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_ZombieProject/Maps/Oriol' took 0.161
+[2023.05.23-22.40.45:071][870]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.161
+[2023.05.23-22.42.04:500][  6]Cmd: DUPLICATE
+[2023.05.23-22.42.04:500][  6]Cmd: ACTOR DUPLICATE
+[2023.05.23-22.42.04:551][  6]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.19:256][243]Cmd: EDIT COPY
+[2023.05.23-22.42.29:053][ 23]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.23-22.42.29:061][ 23]LogContentBundle: [Oriol(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.05.23-22.42.29:065][ 23]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.23-22.42.29:065][ 23]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.23-22.42.29:065][ 23]LogWorldPartition: Display: GetPartitionedActors took 16 us (total: 530 us)
+[2023.05.23-22.42.29:066][ 23]LogWorldPartition: Display: GenerateStreaming took 514 us (total: 15 ms)
+[2023.05.23-22.42.29:066][ 23]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.23-22.42.29:066][ 23]PIE: New page: PIE session: Oriol (24 may. 2023 2:42:29)
+[2023.05.23-22.42.29:113][ 23]LogPlayLevel: Creating play world package: /Game/_ZombieProject/Maps/UEDPIE_0_Oriol
+[2023.05.23-22.42.29:131][ 23]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017721s)
+[2023.05.23-22.42.29:131][ 23]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_ZombieProject/Maps/Oriol.Oriol to /Game/_ZombieProject/Maps/UEDPIE_0_Oriol.Oriol (0.017777s)
+[2023.05.23-22.42.29:131][ 23]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.23-22.42.29:131][ 23]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.23-22.42.29:132][ 23]LogAIModule: Creating AISystem for world Oriol
+[2023.05.23-22.42.29:132][ 23]LogWorldPartition: ULevel::OnLevelLoaded(Oriol)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.05.23-22.42.29:132][ 23]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.23-22.42.29:132][ 23]LogWorldPartition: UWorldPartition::Initialize(Asset=Oriol, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.05.23-22.42.29:137][ 23]LogContentBundle: [Oriol(Standalone)] Creating new contrainer.
+[2023.05.23-22.42.29:137][ 23]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 3.49 sec)
+[2023.05.23-22.42.29:137][ 23]LogPlayLevel: PIE: World Init took: (0.005963s)
+[2023.05.23-22.42.29:176][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   7.08ms
+[2023.05.23-22.42.29:181][ 23]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2023.05.23-22.42.29:181][ 23]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.23-22.42.29:181][ 23]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.23-22.42.29:181][ 23]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.23-22.42.29:181][ 23]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.23-22.42.29:181][ 23]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.23-22.42.29:181][ 23]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.23-22.42.29:181][ 23]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.23-22.42.29:181][ 23]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.23-22.42.29:181][ 23]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.23-22.42.29:181][ 23]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.23-22.42.29:181][ 23]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.23-22.42.29:184][ 23]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.23-22.42.29:205][ 23]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (PRO X)
+[2023.05.23-22.42.29:205][ 23]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.23-22.42.29:205][ 23]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.23-22.42.29:205][ 23]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.23-22.42.29:206][ 23]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2023.05.23-22.42.29:206][ 23]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2023.05.23-22.42.29:209][ 23]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2023.05.23-22.42.29:209][ 23]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2023.05.23-22.42.29:209][ 23]LogInit: FAudioDevice initialized with ID 30.
+[2023.05.23-22.42.29:209][ 23]LogAudio: Display: Audio Device (ID: 30) registered with world 'Oriol'.
+[2023.05.23-22.42.29:209][ 23]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2023.05.23-22.42.29:213][ 23]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.05.23-22.42.29:221][ 23]LogWorld: Bringing World /Game/_ZombieProject/Maps/UEDPIE_0_Oriol.Oriol up for play (max tick rate 0) at 2023.05.24-00.42.29
+[2023.05.23-22.42.29:221][ 23]LogWorld: Bringing up level for play took: 0.008395
+[2023.05.23-22.42.29:224][ 23]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2023.05.23-22.42.29:228][ 23]PIE: Server logged in
+[2023.05.23-22.42.29:229][ 23]PIE: Play in editor total start time 0,168 seconds.
+[2023.05.23-22.42.29:291][ 23]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.29:292][ 23]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.29:293][ 23]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.29:293][ 23]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.29:294][ 23]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.29:295][ 23]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.29:295][ 23]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.29:296][ 23]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.29:296][ 23]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.29:297][ 23]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.29:297][ 23]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.29:299][ 23]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.29:309][ 24]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.29:310][ 24]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.29:311][ 24]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.29:311][ 24]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.29:312][ 24]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.29:312][ 24]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.29:313][ 24]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.29:313][ 24]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.29:314][ 24]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.29:314][ 24]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.29:315][ 24]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.29:317][ 24]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.37:594][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-22.42.37:594][768]LogWorld: BeginTearingDown for /Game/_ZombieProject/Maps/UEDPIE_0_Oriol
+[2023.05.23-22.42.37:594][768]LogWorld: UWorld::CleanupWorld for Oriol, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-22.42.37:595][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-22.42.37:595][768]LogContentBundle: [Oriol(Standalone)] Deleting container.
+[2023.05.23-22.42.37:599][768]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.23-22.42.37:605][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-22.42.37:640][768]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.23-22.42.37:640][768]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2023.05.23-22.42.37:640][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.05.23-22.42.37:642][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.05.23-22.42.37:647][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-22.42.37:652][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.05.23-22.42.37:697][768]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.37:713][769]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2023.05.23-22.42.37:737][769]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.42:213][124]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.23-22.42.42:221][124]LogContentBundle: [Oriol(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.05.23-22.42.42:226][124]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.23-22.42.42:226][124]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.23-22.42.42:226][124]LogWorldPartition: Display: GetPartitionedActors took 13 us (total: 544 us)
+[2023.05.23-22.42.42:226][124]LogWorldPartition: Display: GenerateStreaming took 533 us (total: 15 ms)
+[2023.05.23-22.42.42:226][124]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.23-22.42.42:227][124]PIE: New page: PIE session: Oriol (24 may. 2023 2:42:42)
+[2023.05.23-22.42.42:227][124]LogPlayLevel: Creating play world package: /Game/_ZombieProject/Maps/UEDPIE_0_Oriol
+[2023.05.23-22.42.42:245][124]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018368s)
+[2023.05.23-22.42.42:245][124]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_ZombieProject/Maps/Oriol.Oriol to /Game/_ZombieProject/Maps/UEDPIE_0_Oriol.Oriol (0.018413s)
+[2023.05.23-22.42.42:245][124]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.23-22.42.42:245][124]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.23-22.42.42:246][124]LogAIModule: Creating AISystem for world Oriol
+[2023.05.23-22.42.42:247][124]LogWorldPartition: ULevel::OnLevelLoaded(Oriol)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.05.23-22.42.42:247][124]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.23-22.42.42:247][124]LogWorldPartition: UWorldPartition::Initialize(Asset=Oriol, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.05.23-22.42.42:251][124]LogContentBundle: [Oriol(Standalone)] Creating new contrainer.
+[2023.05.23-22.42.42:251][124]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 3.50 sec)
+[2023.05.23-22.42.42:251][124]LogPlayLevel: PIE: World Init took: (0.006210s)
+[2023.05.23-22.42.42:283][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.05.23-22.42.42:286][124]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2023.05.23-22.42.42:286][124]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.23-22.42.42:286][124]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.23-22.42.42:286][124]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.23-22.42.42:286][124]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.23-22.42.42:286][124]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.23-22.42.42:286][124]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.23-22.42.42:286][124]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.23-22.42.42:286][124]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.23-22.42.42:287][124]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.23-22.42.42:287][124]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.23-22.42.42:287][124]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.23-22.42.42:289][124]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.23-22.42.42:310][124]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (PRO X)
+[2023.05.23-22.42.42:310][124]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.23-22.42.42:310][124]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.23-22.42.42:310][124]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.23-22.42.42:311][124]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2023.05.23-22.42.42:311][124]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2023.05.23-22.42.42:313][124]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2023.05.23-22.42.42:313][124]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2023.05.23-22.42.42:313][124]LogInit: FAudioDevice initialized with ID 31.
+[2023.05.23-22.42.42:313][124]LogAudio: Display: Audio Device (ID: 31) registered with world 'Oriol'.
+[2023.05.23-22.42.42:313][124]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2023.05.23-22.42.42:317][124]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.05.23-22.42.42:325][124]LogWorld: Bringing World /Game/_ZombieProject/Maps/UEDPIE_0_Oriol.Oriol up for play (max tick rate 0) at 2023.05.24-00.42.42
+[2023.05.23-22.42.42:326][124]LogWorld: Bringing up level for play took: 0.008019
+[2023.05.23-22.42.42:328][124]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2023.05.23-22.42.42:332][124]PIE: Server logged in
+[2023.05.23-22.42.42:333][124]PIE: Play in editor total start time 0,112 seconds.
+[2023.05.23-22.42.42:383][124]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.42:384][124]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.42:384][124]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.42:385][124]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.42:385][124]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.42:386][124]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.42:387][124]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.42:387][124]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.42:388][124]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.42:388][124]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.42:389][124]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.42:390][124]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.42:391][124]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.42:401][125]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.42:402][125]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.42:403][125]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.42:403][125]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.42:404][125]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.42:404][125]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.42:405][125]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.42:405][125]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.42:406][125]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.42:406][125]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.42:407][125]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.42:408][125]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.42:409][125]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.55:196][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-22.42.55:196][299]LogWorld: BeginTearingDown for /Game/_ZombieProject/Maps/UEDPIE_0_Oriol
+[2023.05.23-22.42.55:196][299]LogWorld: UWorld::CleanupWorld for Oriol, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-22.42.55:197][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-22.42.55:197][299]LogContentBundle: [Oriol(Standalone)] Deleting container.
+[2023.05.23-22.42.55:201][299]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.23-22.42.55:207][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-22.42.55:242][299]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.23-22.42.55:243][299]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2023.05.23-22.42.55:243][299]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2023.05.23-22.42.55:245][299]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2023.05.23-22.42.55:251][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-22.42.55:255][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.05.23-22.42.55:301][299]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.42.55:329][300]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2023.05.23-22.42.55:354][300]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.43.32:092][376]Cmd: DUPLICATE
+[2023.05.23-22.43.32:092][376]Cmd: ACTOR DUPLICATE
+[2023.05.23-22.43.32:092][376]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2023.05.23-22.43.32:158][376]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.44.31:666][283]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.23-22.44.31:674][283]LogContentBundle: [Oriol(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.05.23-22.44.31:679][283]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.23-22.44.31:679][283]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.23-22.44.31:679][283]LogWorldPartition: Display: GetPartitionedActors took 17 us (total: 562 us)
+[2023.05.23-22.44.31:679][283]LogWorldPartition: Display: GenerateStreaming took 528 us (total: 16 ms)
+[2023.05.23-22.44.31:680][283]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.23-22.44.31:680][283]PIE: New page: PIE session: Oriol (24 may. 2023 2:44:31)
+[2023.05.23-22.44.31:698][283]LogPlayLevel: Creating play world package: /Game/_ZombieProject/Maps/UEDPIE_0_Oriol
+[2023.05.23-22.44.31:717][283]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018242s)
+[2023.05.23-22.44.31:717][283]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_ZombieProject/Maps/Oriol.Oriol to /Game/_ZombieProject/Maps/UEDPIE_0_Oriol.Oriol (0.018296s)
+[2023.05.23-22.44.31:717][283]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.23-22.44.31:717][283]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.23-22.44.31:717][283]LogAIModule: Creating AISystem for world Oriol
+[2023.05.23-22.44.31:718][283]LogWorldPartition: ULevel::OnLevelLoaded(Oriol)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.05.23-22.44.31:718][283]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.23-22.44.31:718][283]LogWorldPartition: UWorldPartition::Initialize(Asset=Oriol, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.05.23-22.44.31:723][283]LogContentBundle: [Oriol(Standalone)] Creating new contrainer.
+[2023.05.23-22.44.31:723][283]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 3.50 sec)
+[2023.05.23-22.44.31:723][283]LogPlayLevel: PIE: World Init took: (0.006232s)
+[2023.05.23-22.44.31:773][283]LogUObjectHash: Compacting FUObjectHashTables data took  20.87ms
+[2023.05.23-22.44.31:780][283]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2023.05.23-22.44.31:780][283]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.23-22.44.31:780][283]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.23-22.44.31:780][283]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.23-22.44.31:780][283]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.23-22.44.31:780][283]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.23-22.44.31:780][283]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.23-22.44.31:780][283]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.23-22.44.31:780][283]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.23-22.44.31:780][283]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.23-22.44.31:780][283]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.23-22.44.31:780][283]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.23-22.44.31:783][283]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.23-22.44.31:802][283]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (PRO X)
+[2023.05.23-22.44.31:802][283]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.23-22.44.31:802][283]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.23-22.44.31:802][283]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.23-22.44.31:803][283]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2023.05.23-22.44.31:803][283]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2023.05.23-22.44.31:811][283]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2023.05.23-22.44.31:811][283]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2023.05.23-22.44.31:811][283]LogInit: FAudioDevice initialized with ID 32.
+[2023.05.23-22.44.31:811][283]LogAudio: Display: Audio Device (ID: 32) registered with world 'Oriol'.
+[2023.05.23-22.44.31:811][283]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2023.05.23-22.44.31:816][283]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.05.23-22.44.31:824][283]LogWorld: Bringing World /Game/_ZombieProject/Maps/UEDPIE_0_Oriol.Oriol up for play (max tick rate 0) at 2023.05.24-00.44.31
+[2023.05.23-22.44.31:824][283]LogWorld: Bringing up level for play took: 0.008460
+[2023.05.23-22.44.31:827][283]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2023.05.23-22.44.31:831][283]PIE: Server logged in
+[2023.05.23-22.44.31:832][283]PIE: Play in editor total start time 0,158 seconds.
+[2023.05.23-22.44.31:850][283]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.44.31:851][283]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.44.31:851][283]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.44.31:852][283]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.44.31:853][283]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.44.31:853][283]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.44.31:854][283]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.44.31:854][283]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.44.31:855][283]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.44.31:855][283]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.44.31:856][283]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.44.31:857][283]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.44.31:858][283]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.44.31:997][284]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.44.31:997][284]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.44.31:998][284]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.44.31:999][284]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.44.31:999][284]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.44.32:000][284]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.44.32:001][284]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.44.32:001][284]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.44.32:002][284]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.44.32:002][284]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.44.32:004][284]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.44.32:004][284]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.07:802][251]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Translation: X=-4964.418 Y=9104.737 Z=86.870 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.05.23-22.45.07:821][251]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 8
+[2023.05.23-22.45.08:007][252]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Translation: X=-4964.418 Y=9104.737 Z=86.870 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.05.23-22.45.08:012][252]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 7
+[2023.05.23-22.45.08:012][252]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Translation: X=-4964.418 Y=9104.737 Z=86.870 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.05.23-22.45.08:027][252]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 6
+[2023.05.23-22.45.08:059][254]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Translation: X=-4957.282 Y=9104.737 Z=86.876 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.05.23-22.45.08:063][254]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 5
+[2023.05.23-22.45.08:310][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.08:311][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.08:311][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.08:312][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.08:426][284]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Translation: X=-4957.282 Y=9104.737 Z=86.876 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.05.23-22.45.08:431][284]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 4
+[2023.05.23-22.45.08:573][296]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Translation: X=-4957.282 Y=9104.737 Z=87.254 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.05.23-22.45.08:585][296]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 3
+[2023.05.23-22.45.08:743][299]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Translation: X=-4957.282 Y=9104.737 Z=87.542 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.05.23-22.45.08:748][299]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 2
+[2023.05.23-22.45.08:837][306]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Translation: X=-4957.282 Y=9104.737 Z=87.542 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.05.23-22.45.08:841][306]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 1
+[2023.05.23-22.45.08:966][315]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Translation: X=-4964.352 Y=9104.737 Z=94.603 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.05.23-22.45.08:970][315]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Reloading
+[2023.05.23-22.45.09:335][343]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.09:336][343]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.09:337][343]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.11:523][524]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Translation: X=-4779.119 Y=7821.048 Z=140.660 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.05.23-22.45.11:527][524]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 8
+[2023.05.23-22.45.11:665][536]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Translation: X=-4779.119 Y=7821.048 Z=140.660 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.05.23-22.45.11:669][536]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 7
+[2023.05.23-22.45.11:806][548]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Translation: X=-4779.119 Y=7821.048 Z=140.660 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.05.23-22.45.11:811][548]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 6
+[2023.05.23-22.45.11:941][559]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Translation: X=-4779.119 Y=7821.048 Z=140.660 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.05.23-22.45.11:945][559]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 5
+[2023.05.23-22.45.21:067][329]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Translation: X=-4779.119 Y=7997.629 Z=79.168 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.05.23-22.45.21:072][329]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 5
+[2023.05.23-22.45.21:215][341]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Translation: X=-4779.119 Y=7997.629 Z=79.168 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.05.23-22.45.21:220][341]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 4
+[2023.05.23-22.45.21:348][352]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Translation: X=-4779.119 Y=7997.629 Z=79.168 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.05.23-22.45.21:353][352]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 3
+[2023.05.23-22.45.25:080][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-22.45.25:080][665]LogWorld: BeginTearingDown for /Game/_ZombieProject/Maps/UEDPIE_0_Oriol
+[2023.05.23-22.45.25:081][665]LogWorld: UWorld::CleanupWorld for Oriol, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-22.45.25:083][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-22.45.25:084][665]LogContentBundle: [Oriol(Standalone)] Deleting container.
+[2023.05.23-22.45.25:087][665]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.23-22.45.25:095][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-22.45.25:130][665]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.23-22.45.25:130][665]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2023.05.23-22.45.25:130][665]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2023.05.23-22.45.25:132][665]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2023.05.23-22.45.25:138][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-22.45.25:150][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.05.23-22.45.25:196][665]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.25:212][666]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2023.05.23-22.45.25:237][666]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.36:651][594]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.05.23-22.45.40:135][880]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.23-22.45.40:145][880]LogContentBundle: [Oriol(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.05.23-22.45.40:149][880]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.23-22.45.40:149][880]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.23-22.45.40:149][880]LogWorldPartition: Display: GetPartitionedActors took 15 us (total: 577 us)
+[2023.05.23-22.45.40:149][880]LogWorldPartition: Display: GenerateStreaming took 505 us (total: 16 ms)
+[2023.05.23-22.45.40:150][880]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.23-22.45.40:150][880]PIE: New page: PIE session: Oriol (24 may. 2023 2:45:40)
+[2023.05.23-22.45.40:172][880]LogPlayLevel: Creating play world package: /Game/_ZombieProject/Maps/UEDPIE_0_Oriol
+[2023.05.23-22.45.40:190][880]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017882s)
+[2023.05.23-22.45.40:190][880]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_ZombieProject/Maps/Oriol.Oriol to /Game/_ZombieProject/Maps/UEDPIE_0_Oriol.Oriol (0.017936s)
+[2023.05.23-22.45.40:190][880]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.23-22.45.40:190][880]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.23-22.45.40:190][880]LogAIModule: Creating AISystem for world Oriol
+[2023.05.23-22.45.40:191][880]LogWorldPartition: ULevel::OnLevelLoaded(Oriol)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.05.23-22.45.40:191][880]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.23-22.45.40:191][880]LogWorldPartition: UWorldPartition::Initialize(Asset=Oriol, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.05.23-22.45.40:196][880]LogContentBundle: [Oriol(Standalone)] Creating new contrainer.
+[2023.05.23-22.45.40:196][880]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 3.50 sec)
+[2023.05.23-22.45.40:196][880]LogPlayLevel: PIE: World Init took: (0.005928s)
+[2023.05.23-22.45.40:226][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.05.23-22.45.40:230][880]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2023.05.23-22.45.40:230][880]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.23-22.45.40:230][880]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.23-22.45.40:230][880]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.23-22.45.40:230][880]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.23-22.45.40:230][880]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.23-22.45.40:231][880]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.23-22.45.40:231][880]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.23-22.45.40:231][880]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.23-22.45.40:231][880]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.23-22.45.40:231][880]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.23-22.45.40:231][880]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.23-22.45.40:234][880]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.23-22.45.40:264][880]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (PRO X)
+[2023.05.23-22.45.40:265][880]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.23-22.45.40:265][880]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.23-22.45.40:265][880]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.23-22.45.40:265][880]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2023.05.23-22.45.40:265][880]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2023.05.23-22.45.40:268][880]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2023.05.23-22.45.40:268][880]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2023.05.23-22.45.40:268][880]LogInit: FAudioDevice initialized with ID 33.
+[2023.05.23-22.45.40:268][880]LogAudio: Display: Audio Device (ID: 33) registered with world 'Oriol'.
+[2023.05.23-22.45.40:268][880]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2023.05.23-22.45.40:272][880]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.05.23-22.45.40:280][880]LogWorld: Bringing World /Game/_ZombieProject/Maps/UEDPIE_0_Oriol.Oriol up for play (max tick rate 0) at 2023.05.24-00.45.40
+[2023.05.23-22.45.40:281][880]LogWorld: Bringing up level for play took: 0.008300
+[2023.05.23-22.45.40:284][880]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2023.05.23-22.45.40:326][880]PIE: Server logged in
+[2023.05.23-22.45.40:328][880]PIE: Play in editor total start time 0,183 seconds.
+[2023.05.23-22.45.40:349][880]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.40:350][880]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.40:351][880]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.40:351][880]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.40:352][880]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.40:352][880]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.40:353][880]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.40:353][880]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.40:354][880]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.40:355][880]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.40:355][880]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.40:357][880]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.40:357][880]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.40:475][881]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.40:476][881]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.40:477][881]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.40:477][881]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.40:478][881]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.40:478][881]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.40:479][881]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.40:479][881]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.40:480][881]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.40:480][881]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.40:482][881]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.40:482][881]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.45:969][326]LogBlueprintUserMessages: [BP_Zombie_C_UAID_309C2303EAC2E97701_1313989832] Ligma
+[2023.05.23-22.45.45:969][326]LogBlueprintUserMessages: [BP_Zombie_C_UAID_309C2303EAC2E97701_1313989832] 60.0
+[2023.05.23-22.45.45:992][326]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 8
+[2023.05.23-22.45.46:533][329]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Translation: X=1706.702 Y=100.125 Z=124.739 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.05.23-22.45.46:537][329]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 7
+[2023.05.23-22.45.46:538][329]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Translation: X=1706.702 Y=100.125 Z=124.739 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.05.23-22.45.46:542][329]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 6
+[2023.05.23-22.45.46:637][329]LogShaderCompilers: Display: ================================================
+[2023.05.23-22.45.46:637][329]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.23-22.45.46:637][329]LogShaderCompilers: Display: Total job queries 117, among them cache hits 26 (22.22%)
+[2023.05.23-22.45.46:637][329]LogShaderCompilers: Display: Tracking 91 distinct input hashes that result in 67 distinct outputs (73.63%)
+[2023.05.23-22.45.46:637][329]LogShaderCompilers: Display: RAM used: 2,44 MiB of 819,20 MiB budget. Usage: 0.30%
+[2023.05.23-22.45.46:637][329]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.23-22.45.46:637][329]LogShaderCompilers: Display: Shaders Compiled: 36
+[2023.05.23-22.45.46:637][329]LogShaderCompilers: Display: Jobs assigned 36, completed 36 (100.00%)
+[2023.05.23-22.45.46:637][329]LogShaderCompilers: Display: Average time worker was idle: 1198.18 s
+[2023.05.23-22.45.46:637][329]LogShaderCompilers: Display: Time job spent in pending queue: average 0.17 s, longest 1.26 s
+[2023.05.23-22.45.46:637][329]LogShaderCompilers: Display: Job execution time: average 1.16 s, max 3.16 s
+[2023.05.23-22.45.46:637][329]LogShaderCompilers: Display: Job life time (pending + execution): average 1.33 s, max 3.25
+[2023.05.23-22.45.46:637][329]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.69 s
+[2023.05.23-22.45.46:637][329]LogShaderCompilers: Display: Jobs were issued in 36 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.23-22.45.46:637][329]LogShaderCompilers: Display: Average processing rate: 3.37 jobs/sec
+[2023.05.23-22.45.46:637][329]LogShaderCompilers: Display: Total thread time: 27,741 s
+[2023.05.23-22.45.46:637][329]LogShaderCompilers: Display: Total thread preprocess time: 1,081 s
+[2023.05.23-22.45.46:637][329]LogShaderCompilers: Display: Percentage time preprocessing: 3.90%
+[2023.05.23-22.45.46:637][329]LogShaderCompilers: Display: Effective parallelization: 2.60 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.05.23-22.45.46:637][329]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.23-22.45.46:637][329]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    9 times, average 0.98 sec, max 1.19 sec, min 0.86 sec)
+[2023.05.23-22.45.46:657][329]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    9 times, average 0.84 sec, max 1.02 sec, min 0.75 sec)
+[2023.05.23-22.45.46:657][329]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    8 times, average 0.71 sec, max 0.88 sec, min 0.64 sec)
+[2023.05.23-22.45.46:657][329]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled    1 times, average 0.70 sec, max 0.70 sec, min 0.70 sec)
+[2023.05.23-22.45.46:658][329]LogShaderCompilers: Display:                                            FDistortionMeshPS (compiled    1 times, average 0.58 sec, max 0.58 sec, min 0.58 sec)
+[2023.05.23-22.45.46:658][329]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.23-22.45.46:658][329]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 31.88% of total time (compiled    9 times, average 0.98 sec, max 1.19 sec, min 0.86 sec)
+[2023.05.23-22.45.46:658][329]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 27.40% of total time (compiled    9 times, average 0.84 sec, max 1.02 sec, min 0.75 sec)
+[2023.05.23-22.45.46:658][329]LogShaderCompilers: Display:                                                 FLumenCardVS - 20.58% of total time (compiled    8 times, average 0.71 sec, max 0.88 sec, min 0.64 sec)
+[2023.05.23-22.45.46:658][329]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 15.54% of total time (compiled    8 times, average 0.54 sec, max 0.64 sec, min 0.50 sec)
+[2023.05.23-22.45.46:658][329]LogShaderCompilers: Display:                                            FDistortionMeshVS - 2.52% of total time (compiled    1 times, average 0.70 sec, max 0.70 sec, min 0.70 sec)
+[2023.05.23-22.45.46:658][329]LogShaderCompilers: Display: ================================================
+[2023.05.23-22.45.47:504][358]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.47:505][358]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.47:945][394]LogBlueprintUserMessages: [BP_Zombie_C_UAID_309C2303EAC2E97701_1313989832] Ligma
+[2023.05.23-22.45.47:945][394]LogBlueprintUserMessages: [BP_Zombie_C_UAID_309C2303EAC2E97701_1313989832] 40.0
+[2023.05.23-22.45.47:945][394]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 5
+[2023.05.23-22.45.48:780][463]LogBlueprintUserMessages: [BP_Zombie_C_UAID_309C2303EAC2E97701_1313989832] Ligma
+[2023.05.23-22.45.48:780][463]LogBlueprintUserMessages: [BP_Zombie_C_UAID_309C2303EAC2E97701_1313989832] 20.0
+[2023.05.23-22.45.48:780][463]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 4
+[2023.05.23-22.45.48:939][476]LogBlueprintUserMessages: [BP_Zombie_C_UAID_309C2303EAC2E97701_1313989832] Ligma
+[2023.05.23-22.45.48:939][476]LogBlueprintUserMessages: [BP_Zombie_C_UAID_309C2303EAC2E97701_1313989832] 0.0
+[2023.05.23-22.45.48:948][476]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 3
+[2023.05.23-22.45.52:544][762]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.52:556][763]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.53:088][806]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Translation: X=926.813 Y=2496.727 Z=0.062 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.05.23-22.45.53:093][806]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 8
+[2023.05.23-22.45.53:548][841]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.54:459][917]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Translation: X=991.785 Y=2767.819 Z=0.062 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.05.23-22.45.54:463][917]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 7
+[2023.05.23-22.45.54:549][924]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.54:606][929]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Translation: X=991.785 Y=2767.819 Z=0.062 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.05.23-22.45.54:611][929]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 6
+[2023.05.23-22.45.54:760][941]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Translation: X=991.785 Y=2767.819 Z=0.062 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.05.23-22.45.54:763][941]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 5
+[2023.05.23-22.45.55:519][  1]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Translation: X=980.630 Y=2738.934 Z=0.063 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.05.23-22.45.55:523][  1]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 4
+[2023.05.23-22.45.55:554][  3]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.55:555][  3]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.55:556][  3]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.55:653][ 12]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Translation: X=980.630 Y=2738.934 Z=0.063 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.05.23-22.45.55:657][ 12]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 3
+[2023.05.23-22.45.55:817][ 25]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Translation: X=980.630 Y=2738.934 Z=0.063 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.05.23-22.45.55:821][ 25]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 2
+[2023.05.23-22.45.55:955][ 36]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Translation: X=980.630 Y=2738.934 Z=0.063 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.05.23-22.45.55:959][ 36]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 1
+[2023.05.23-22.45.56:562][ 84]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.56:563][ 84]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.45.59:869][351]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Translation: X=1272.880 Y=2560.897 Z=0.063 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.05.23-22.45.59:873][351]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 8
+[2023.05.23-22.46.04:353][718]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 8
+[2023.05.23-22.46.17:880][855]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Translation: X=1298.196 Y=1949.556 Z=0.062 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.05.23-22.46.17:884][855]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 8
+[2023.05.23-22.46.18:031][867]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Translation: X=1371.451 Y=1986.086 Z=0.063 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.05.23-22.46.18:035][867]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 7
+[2023.05.23-22.46.18:171][878]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Translation: X=1699.800 Y=1663.435 Z=51.186 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale: X=1.000 Y=1.000 Z=1.000
+[2023.05.23-22.46.18:175][878]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 6
+[2023.05.23-22.46.19:826][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-22.46.19:826][ 13]LogWorld: BeginTearingDown for /Game/_ZombieProject/Maps/UEDPIE_0_Oriol
+[2023.05.23-22.46.19:826][ 13]LogWorld: UWorld::CleanupWorld for Oriol, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-22.46.19:828][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-22.46.19:828][ 13]LogContentBundle: [Oriol(Standalone)] Deleting container.
+[2023.05.23-22.46.19:832][ 13]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.23-22.46.19:839][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-22.46.19:876][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-22.46.19:877][ 13]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2023.05.23-22.46.19:877][ 13]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2023.05.23-22.46.19:879][ 13]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2023.05.23-22.46.19:890][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.05.23-22.46.19:937][ 13]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.46.19:956][ 14]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2023.05.23-22.46.19:982][ 14]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-22.52.40:053][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.05.23-22.52.40:059][ 51]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/_ZombieProject/Maps/Oriol/6/P7/WDXX4W9TMH6CHFNWF122TR_Auto1
+[2023.05.23-22.52.40:059][ 51]LogSavePackage: Moving 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/WDXX4W9TMH6CHFNWF122TR_Auto13F78A7DD435EF873B07C8AB550C554BA.tmp' to 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/Autosaves/Game/__ExternalActors__/_ZombieProject/Maps/Oriol/6/P7/WDXX4W9TMH6CHFNWF122TR_Auto1.uasset'
+[2023.05.23-22.52.40:062][ 51]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/_ZombieProject/Maps/Oriol/6/HX/PB471EJ1XPEXDGLS796F71_Auto1
+[2023.05.23-22.52.40:062][ 51]LogSavePackage: Moving 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/PB471EJ1XPEXDGLS796F71_Auto1FD1038EC4C5D028781C831ADDC4834F8.tmp' to 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/Autosaves/Game/__ExternalActors__/_ZombieProject/Maps/Oriol/6/HX/PB471EJ1XPEXDGLS796F71_Auto1.uasset'
+[2023.05.23-22.52.40:064][ 51]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/_ZombieProject/Maps/Oriol/9/JB/GILC3DAK0HIIAZC7JXO687_Auto1
+[2023.05.23-22.52.40:064][ 51]LogSavePackage: Moving 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/GILC3DAK0HIIAZC7JXO687_Auto1965860A543B2D23686FBBABB02533004.tmp' to 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/Autosaves/Game/__ExternalActors__/_ZombieProject/Maps/Oriol/9/JB/GILC3DAK0HIIAZC7JXO687_Auto1.uasset'
+[2023.05.23-22.52.40:067][ 51]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/_ZombieProject/Maps/Oriol/A/LT/U5E8RCF2QK4KYAFLHVUCOG_Auto1
+[2023.05.23-22.52.40:067][ 51]LogSavePackage: Moving 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/U5E8RCF2QK4KYAFLHVUCOG_Auto16ED3D3134A678EBD11FF828A801FB697.tmp' to 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/Autosaves/Game/__ExternalActors__/_ZombieProject/Maps/Oriol/A/LT/U5E8RCF2QK4KYAFLHVUCOG_Auto1.uasset'
+[2023.05.23-22.52.40:070][ 51]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/_ZombieProject/Maps/Oriol/4/ZW/ATKT98AOX5VPZRN2NSAOUY_Auto1
+[2023.05.23-22.52.40:070][ 51]LogSavePackage: Moving 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/ATKT98AOX5VPZRN2NSAOUY_Auto1EA7CD9B04A199697498CEF844CE32819.tmp' to 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/Autosaves/Game/__ExternalActors__/_ZombieProject/Maps/Oriol/4/ZW/ATKT98AOX5VPZRN2NSAOUY_Auto1.uasset'
+[2023.05.23-22.52.40:072][ 51]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/_ZombieProject/Maps/Oriol/9/3V/CQRSAVZHAS4LH3TWO54T7S_Auto1
+[2023.05.23-22.52.40:072][ 51]LogSavePackage: Moving 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/CQRSAVZHAS4LH3TWO54T7S_Auto1CCDA7CB14A6CB5B86FEA55A341508299.tmp' to 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/Autosaves/Game/__ExternalActors__/_ZombieProject/Maps/Oriol/9/3V/CQRSAVZHAS4LH3TWO54T7S_Auto1.uasset'
+[2023.05.23-22.52.40:076][ 51]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/_ZombieProject/Maps/Oriol/8/TX/5KNHEFPRZXLYLD49Q3KM9T_Auto1
+[2023.05.23-22.52.40:076][ 51]LogSavePackage: Moving 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/5KNHEFPRZXLYLD49Q3KM9T_Auto1FD0265984865524285AD72BC3FE73219.tmp' to 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/Autosaves/Game/__ExternalActors__/_ZombieProject/Maps/Oriol/8/TX/5KNHEFPRZXLYLD49Q3KM9T_Auto1.uasset'
+[2023.05.23-22.52.40:079][ 51]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/_ZombieProject/Maps/Oriol/4/MC/CNNR3AKL1A8WXKECJN4XQ4_Auto1
+[2023.05.23-22.52.40:079][ 51]LogSavePackage: Moving 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/CNNR3AKL1A8WXKECJN4XQ4_Auto170619461404A26E99C7EBB8D01020F92.tmp' to 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/Autosaves/Game/__ExternalActors__/_ZombieProject/Maps/Oriol/4/MC/CNNR3AKL1A8WXKECJN4XQ4_Auto1.uasset'
+[2023.05.23-22.52.40:081][ 51]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_ZombieProject/Maps/Oriol' took 0.072
+[2023.05.23-22.52.40:081][ 51]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.072
+[2023.05.23-23.10.20:172][231]LogDerivedDataCache: C:/Users/valve/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.110 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 882 files in 1578 folders with total size 77 MiB.
+[2023.05.24-00.10.20:178][ 30]LogDerivedDataCache: C:/Users/valve/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.115 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 882 files in 1578 folders with total size 77 MiB.
+[2023.05.24-00.15.17:923][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   5.96ms
+[2023.05.24-00.15.17:987][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.05.24-00.15.19:096][ 77]LogSlate: Window 'Save Content' being destroyed
+[2023.05.24-00.15.19:146][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.24-00.15.19:197][ 77]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_ZombieProject/Maps/Oriol/6/P7/WDXX4W9TMH6CHFNWF122TR
+[2023.05.24-00.15.19:198][ 77]LogSavePackage: Moving 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/WDXX4W9TMH6CHFNWF122TR57851CF74035B739B56E409C94B9E048.tmp' to 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Content/__ExternalActors__/_ZombieProject/Maps/Oriol/6/P7/WDXX4W9TMH6CHFNWF122TR.uasset'
+[2023.05.24-00.15.19:229][ 77]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_ZombieProject/Maps/Oriol/6/55/0NGBR252MQ4WSPOVAHDM2G
+[2023.05.24-00.15.19:230][ 77]LogSavePackage: Moving 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/0NGBR252MQ4WSPOVAHDM2G427BF69F4411EC5F69EF6C83B52A101C.tmp' to 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Content/__ExternalActors__/_ZombieProject/Maps/Oriol/6/55/0NGBR252MQ4WSPOVAHDM2G.uasset'
+[2023.05.24-00.15.19:269][ 77]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_ZombieProject/Maps/Oriol/4/ZW/ATKT98AOX5VPZRN2NSAOUY
+[2023.05.24-00.15.19:269][ 77]LogSavePackage: Moving 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/ATKT98AOX5VPZRN2NSAOUY6BEB0D0D48D774AD9CAFF1B985863A83.tmp' to 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Content/__ExternalActors__/_ZombieProject/Maps/Oriol/4/ZW/ATKT98AOX5VPZRN2NSAOUY.uasset'
+[2023.05.24-00.15.19:272][ 77]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_ZombieProject/Maps/Oriol/9/3V/CQRSAVZHAS4LH3TWO54T7S
+[2023.05.24-00.15.19:272][ 77]LogSavePackage: Moving 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/CQRSAVZHAS4LH3TWO54T7S8290751042EC297AF94F5781FE9F4FE0.tmp' to 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Content/__ExternalActors__/_ZombieProject/Maps/Oriol/9/3V/CQRSAVZHAS4LH3TWO54T7S.uasset'
+[2023.05.24-00.15.19:276][ 77]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_ZombieProject/Maps/Oriol/7/H7/7RIL1OJX92ZGQ6S3T0I9RP
+[2023.05.24-00.15.19:276][ 77]LogSavePackage: Moving 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/7RIL1OJX92ZGQ6S3T0I9RP49F97C0F4D796BD9C6314281ABF806EA.tmp' to 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Content/__ExternalActors__/_ZombieProject/Maps/Oriol/7/H7/7RIL1OJX92ZGQ6S3T0I9RP.uasset'
+[2023.05.24-00.15.19:279][ 77]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_ZombieProject/Maps/Oriol/5/43/43J9O94J0AJFD37QU1G5K2
+[2023.05.24-00.15.19:279][ 77]LogSavePackage: Moving 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/43J9O94J0AJFD37QU1G5K2609484E74D25819B0154BD9646BB7208.tmp' to 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Content/__ExternalActors__/_ZombieProject/Maps/Oriol/5/43/43J9O94J0AJFD37QU1G5K2.uasset'
+[2023.05.24-00.15.19:284][ 77]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_ZombieProject/Maps/Oriol/8/0F/6YTKCCHUR6CIOYO6KKG159
+[2023.05.24-00.15.19:284][ 77]LogSavePackage: Moving 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/6YTKCCHUR6CIOYO6KKG159B72280754CCC7241692FE7845A7335F7.tmp' to 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Content/__ExternalActors__/_ZombieProject/Maps/Oriol/8/0F/6YTKCCHUR6CIOYO6KKG159.uasset'
+[2023.05.24-00.15.19:288][ 77]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_ZombieProject/Maps/Oriol/9/JB/GILC3DAK0HIIAZC7JXO687
+[2023.05.24-00.15.19:288][ 77]LogSavePackage: Moving 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/GILC3DAK0HIIAZC7JXO687BA8C1E684A3EF9E560C71C9BFFFD297D.tmp' to 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Content/__ExternalActors__/_ZombieProject/Maps/Oriol/9/JB/GILC3DAK0HIIAZC7JXO687.uasset'
+[2023.05.24-00.15.19:292][ 77]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_ZombieProject/Maps/Oriol/6/HX/PB471EJ1XPEXDGLS796F71
+[2023.05.24-00.15.19:292][ 77]LogSavePackage: Moving 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/PB471EJ1XPEXDGLS796F7181A50A94446E84D68F888189CD32AFAF.tmp' to 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Content/__ExternalActors__/_ZombieProject/Maps/Oriol/6/HX/PB471EJ1XPEXDGLS796F71.uasset'
+[2023.05.24-00.15.19:296][ 77]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_ZombieProject/Maps/Oriol/A/LT/U5E8RCF2QK4KYAFLHVUCOG
+[2023.05.24-00.15.19:296][ 77]LogSavePackage: Moving 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/U5E8RCF2QK4KYAFLHVUCOGA246E3604868E3D95D688D9661901EC3.tmp' to 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Content/__ExternalActors__/_ZombieProject/Maps/Oriol/A/LT/U5E8RCF2QK4KYAFLHVUCOG.uasset'
+[2023.05.24-00.15.19:300][ 77]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_ZombieProject/Maps/Oriol/3/XJ/0AZ0850PCDM7Y7CK5XVVC5
+[2023.05.24-00.15.19:300][ 77]LogSavePackage: Moving 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/0AZ0850PCDM7Y7CK5XVVC50BA16AA6409BD61B3F5D51A67E1FB6F9.tmp' to 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Content/__ExternalActors__/_ZombieProject/Maps/Oriol/3/XJ/0AZ0850PCDM7Y7CK5XVVC5.uasset'
+[2023.05.24-00.15.19:304][ 77]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_ZombieProject/Maps/Oriol/8/TX/5KNHEFPRZXLYLD49Q3KM9T
+[2023.05.24-00.15.19:304][ 77]LogSavePackage: Moving 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/5KNHEFPRZXLYLD49Q3KM9T232E9EA14FC2862A3CDFC594142548AE.tmp' to 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Content/__ExternalActors__/_ZombieProject/Maps/Oriol/8/TX/5KNHEFPRZXLYLD49Q3KM9T.uasset'
+[2023.05.24-00.15.19:308][ 77]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_ZombieProject/Maps/Oriol/4/MC/CNNR3AKL1A8WXKECJN4XQ4
+[2023.05.24-00.15.19:308][ 77]LogSavePackage: Moving 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Saved/CNNR3AKL1A8WXKECJN4XQ475488FFA4B02F86BD0E47BA3762DC67B.tmp' to 'E:/Github/Giravolt/UnrealEngine_CITM/ZombieGame/Content/__ExternalActors__/_ZombieProject/Maps/Oriol/4/MC/CNNR3AKL1A8WXKECJN4XQ4.uasset'
+[2023.05.24-00.15.19:332][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave took 194 ms (total: 2.85 sec)
+[2023.05.24-00.15.19:347][ 77]LogStall: Shutdown...
+[2023.05.24-00.15.19:472][ 77]LogStall: Shutdown complete.
+[2023.05.24-00.15.19:546][ 77]LogSlate: Window 'ZombieGame - Unreal Editor' being destroyed
