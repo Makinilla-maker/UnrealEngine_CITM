@@ -3768,3 +3768,367 @@ UnknownFunction []
 [2023.06.08-18.31.37:308][629]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/_ZombieProject/Maps/Oscar.Oscar:PersistentLevel.StaticMeshActor_UAID_A036BCBD0C7C6D8A01_1429986145
 [2023.06.08-18.31.37:308][629]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/_ZombieProject/Maps/Oscar.Oscar:PersistentLevel.StaticMeshActor_UAID_A036BCBD0C7C6D8A01_1408245144
 [2023.06.08-18.31.37:318][629]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.08-18.32.10:345][194]LogEditorViewport: Clicking Background
+[2023.06.08-18.32.16:554][782]Cmd: TRANSACTION UNDO
+[2023.06.08-18.32.16:554][782]LogEditorTransaction: Undo Clicking Background
+[2023.06.08-18.32.16:599][782]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.08-18.32.16:944][794]Cmd: TRANSACTION UNDO
+[2023.06.08-18.32.16:945][794]LogEditorTransaction: Undo Move Elements
+[2023.06.08-18.32.16:989][794]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.08-18.32.36:833][895]Cmd: DUPLICATE
+[2023.06.08-18.32.36:833][895]Cmd: ACTOR DUPLICATE
+[2023.06.08-18.32.36:870][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.08-18.33.41:881][736]LogEditorViewport: Clicking Background
+[2023.06.08-18.33.46:295][913]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.08-18.33.46:337][913]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.06.08-18.33.46:343][913]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.06.08-18.33.46:348][913]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.06.08-18.33.46:349][913]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_ZombieProject/Maps/Oscar/B/02/7NZVRDT3DVTE7DFVWR0CAX
+[2023.06.08-18.33.46:349][913]LogSavePackage: Moving '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Saved/7NZVRDT3DVTE7DFVWR0CAX4E821E544C245CB74251CC837C025CCF.tmp' to '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Content/__ExternalActors__/_ZombieProject/Maps/Oscar/B/02/7NZVRDT3DVTE7DFVWR0CAX.uasset'
+[2023.06.08-18.33.46:350][913]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_ZombieProject/Maps/Oscar/2/9I/OMN5RUGRCJ5ZSNX0ZUHV6E
+[2023.06.08-18.33.46:350][913]LogSavePackage: Moving '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Saved/OMN5RUGRCJ5ZSNX0ZUHV6E40DFABC54C381CF5196190891D0562C7.tmp' to '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Content/__ExternalActors__/_ZombieProject/Maps/Oscar/2/9I/OMN5RUGRCJ5ZSNX0ZUHV6E.uasset'
+[2023.06.08-18.33.46:366][913]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 1.09 sec)
+[2023.06.08-18.33.46:369][913]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.08-18.33.46:369][913]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/_ZombieProject/Maps/Oscar.Oscar:PersistentLevel.StaticMeshActor_UAID_A036BCBD0C7C6D8A01_1628238148
+[2023.06.08-18.33.46:369][913]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/_ZombieProject/Maps/Oscar.Oscar:PersistentLevel.StaticMeshActor_UAID_A036BCBD0C7C6D8A01_1697380149
+[2023.06.08-18.33.46:379][913]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.08-18.33.49:749][114]LogEditorViewport: Clicking Background
+[2023.06.08-18.33.53:682][519]Cmd: DUPLICATE
+[2023.06.08-18.33.53:682][519]Cmd: ACTOR DUPLICATE
+[2023.06.08-18.33.53:718][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.08-18.34.32:254][427]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.08-18.34.32:303][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.06.08-18.34.32:310][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.06.08-18.34.32:316][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.06.08-18.34.32:317][427]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_ZombieProject/Maps/Oscar/4/04/GUB88YSFNDKG5FADBCV40A
+[2023.06.08-18.34.32:317][427]LogSavePackage: Moving '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Saved/GUB88YSFNDKG5FADBCV40A271C04A241108DAD2E77268F22C8AFB4.tmp' to '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Content/__ExternalActors__/_ZombieProject/Maps/Oscar/4/04/GUB88YSFNDKG5FADBCV40A.uasset'
+[2023.06.08-18.34.32:323][427]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 1.15 sec)
+[2023.06.08-18.34.32:326][427]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_A036BCBD0C7C6D8A01_1774230150
+[2023.06.08-18.34.32:326][427]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/_ZombieProject/Maps/Oscar.Oscar:PersistentLevel.StaticMeshActor_UAID_A036BCBD0C7C6D8A01_1774230150
+[2023.06.08-18.34.32:335][427]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.08-18.34.36:662][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.06.08-18.34.36:693][874]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.08-18.34.36:694][874]LogAssetEditorSubsystem: Opening Asset editor for World /Game/_ZombieProject/Maps/Oriol.Oriol
+[2023.06.08-18.34.36:694][874]Cmd: MAP LOAD FILE="../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Content/_ZombieProject/Maps/Oriol.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.06.08-18.34.36:694][874]LightingResults: New page: Lighting Build
+[2023.06.08-18.34.36:695][874]LoadErrors: New page: Loading map: Oriol.umap
+[2023.06.08-18.34.36:724][874]LogWorld: UWorld::CleanupWorld for Oscar, bSessionEnded=true, bCleanupResources=true
+[2023.06.08-18.34.36:724][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.08-18.34.36:728][874]LogContentBundle: [Oscar(Standalone)] Deleting container.
+[2023.06.08-18.34.36:728][874]MapCheck: New page: Map Check
+[2023.06.08-18.34.36:728][874]LightingResults: New page: Lighting Build
+[2023.06.08-18.34.36:734][874]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.08-18.34.36:739][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.06.08-18.34.36:742][874]LogWorld: UWorld::CleanupWorld for Oriol, bSessionEnded=true, bCleanupResources=true
+[2023.06.08-18.34.36:742][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.08-18.34.36:748][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.06.08-18.34.36:752][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.06.08-18.34.36:756][874]LogAudio: Display: Audio Device (ID: 1) registered with world 'Oriol'.
+[2023.06.08-18.34.36:756][874]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.08-18.34.36:757][874]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.08-18.34.36:757][874]LogAIModule: Creating AISystem for world Oriol
+[2023.06.08-18.34.36:757][874]LogWorldPartition: ULevel::OnLevelLoaded(Oriol)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.06.08-18.34.36:757][874]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.06.08-18.34.36:757][874]LogWorldPartition: UWorldPartition::Initialize(Asset=Oriol, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.06.08-18.34.36:832][874]LogTexture: Display: Building textures: /Game/_ZombieProject/Material/Textures/lambert1_AO.lambert1_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.06.08-18.34.36:881][874]LogContentBundle: [Oriol(Standalone)] Creating new contrainer.
+[2023.06.08-18.34.36:881][874]LogWorldPartition: Display: WorldPartition initialize took 124 ms (total: 429 ms)
+[2023.06.08-18.34.36:923][874]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (grnd_F1_LOD0) ...
+[2023.06.08-18.34.37:004][874]LogTexture: Display: Building textures: /Game/_ZombieProject/Material/Textures/lambert1_metallic.lambert1_metallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.06.08-18.34.37:065][874]LogTexture: Display: Building textures: /Game/_ZombieProject/Material/Textures/lambert1_albedo.lambert1_albedo (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.06.08-18.34.37:135][874]LogTexture: Display: Building textures: /Game/_ZombieProject/Material/Textures/lambert1_emissive.lambert1_emissive (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.06.08-18.34.37:370][874]LogTexture: Display: Building textures: /Game/_ZombieProject/Material/Textures/lambert1_normal.lambert1_normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.06.08-18.34.37:689][874]LogSkeletalMesh: Building Skeletal Mesh grnd_F1_LOD0...
+[2023.06.08-18.34.37:695][874]LogSkeletalMesh: Display: /Game/_ZombieProject/Models/grnd.grnd_F1_LOD0 ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2023.06.08-18.34.37:729][874]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/_ZombieProject/Models/grnd.grnd_F1_LOD0
+[2023.06.08-18.34.37:730][874]LogSkeletalMesh: Building Skeletal Mesh grnd_gransmoke_LOD0...
+[2023.06.08-18.34.37:733][874]LogSkeletalMesh: Display: /Game/_ZombieProject/Models/grnd.grnd_gransmoke_LOD0 ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2023.06.08-18.34.37:745][874]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/_ZombieProject/Models/grnd.grnd_gransmoke_LOD0
+[2023.06.08-18.34.37:746][874]LogSkeletalMesh: Building Skeletal Mesh grnd_RGD_lod0...
+[2023.06.08-18.34.37:746][874]LogStaticMesh: Display: Building static mesh ExitSign_Sign_Low...
+[2023.06.08-18.34.37:746][874]LogStaticMesh: Display: Building static mesh Military_Container...
+[2023.06.08-18.34.37:746][874]LogStaticMesh: Display: Building static mesh Sci-fi_box...
+[2023.06.08-18.34.37:750][874]LogSkeletalMesh: Display: /Game/_ZombieProject/Models/grnd.grnd_RGD_lod0 ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2023.06.08-18.34.37:750][874]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.08-18.34.37:750][874]LogStaticMesh: Built static mesh [0.00s] /Game/_ZombieProject/Models/ExitSign_Sign_Low.ExitSign_Sign_Low
+[2023.06.08-18.34.37:764][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.06.08-18.34.37:769][874]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.08-18.34.37:770][874]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,63ms to complete.
+[2023.06.08-18.34.37:770][874]LogFileHelpers: Loading map 'Oriol' took 1.076
+[2023.06.08-18.34.37:774][874]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/_ZombieProject/Models/grnd.grnd_RGD_lod0
+[2023.06.08-18.34.37:798][874]LogTexture: Display: Building textures: /Game/_ZombieProject/Material/Textures/lambert1_roughness.lambert1_roughness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.06.08-18.34.37:807][874]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.08-18.34.37:819][875]LogStaticMesh: Built static mesh [0.07s] /Game/_ZombieProject/Models/Military_Container.Military_Container
+[2023.06.08-18.34.37:831][876]LogTexture: Display: Building textures: /Game/_ZombieProject/Material/Textures/DefaultMaterial_Base_Color.DefaultMaterial_Base_Color (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.06.08-18.34.37:903][877]LogTexture: Display: Building textures: /Game/_ZombieProject/Material/Textures/DefaultMaterial_Metallic.DefaultMaterial_Metallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.06.08-18.34.38:113][885]LogTexture: Display: Building textures: /Game/_ZombieProject/Material/Textures/DefaultMaterial_Normal.DefaultMaterial_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 336.562488 MB), EncodeSpeed: Fast
+[2023.06.08-18.34.38:114][885]LogTexture: Display: Building textures: /Game/_ZombieProject/Material/Textures/DefaultMaterial_Mixed_AO.DefaultMaterial_Mixed_AO (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.06.08-18.34.38:122][885]LogTexture: Display: Building textures: /Game/_ZombieProject/Material/Textures/DefaultMaterial_Roughness.DefaultMaterial_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.06.08-18.34.38:474][910]LogTexture: Display: Building textures: /Game/_ZombieProject/Material/Textures/granade_LOD0Diff.granade_LOD0Diff (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.06.08-18.34.38:500][911]LogTexture: Display: Building textures: /Game/_ZombieProject/Material/Textures/granade_LOD0spec_4096X4096.granade_LOD0spec_4096X4096 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.06.08-18.34.38:625][916]LogTexture: Display: Building textures: /Game/_ZombieProject/Material/Textures/granade_LOD0NRM_4096X4096.granade_LOD0NRM_4096X4096 (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.06.08-18.34.38:724][922]LogStaticMesh: Built static mesh [0.98s] /Game/_ZombieProject/Models/Sci-fi_box.Sci-fi_box
+[2023.06.08-18.34.39:182][971]LogShaderCompilers: Display: ================================================
+[2023.06.08-18.34.39:182][971]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.08-18.34.39:182][971]LogShaderCompilers: Display: Total job queries 248, among them cache hits 64 (25.81%)
+[2023.06.08-18.34.39:182][971]LogShaderCompilers: Display: Tracking 171 distinct input hashes that result in 115 distinct outputs (67.25%)
+[2023.06.08-18.34.39:182][971]LogShaderCompilers: Display: RAM used: 3,61 MiB of 1,60 GiB budget. Usage: 0.22%
+[2023.06.08-18.34.39:182][971]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.08-18.34.39:182][971]LogShaderCompilers: Display: Shaders Compiled: 16
+[2023.06.08-18.34.39:182][971]LogShaderCompilers: Display: Jobs assigned 24, completed 16 (66.67%)
+[2023.06.08-18.34.39:182][971]LogShaderCompilers: Display: Average time worker was idle: 992.34 s
+[2023.06.08-18.34.39:182][971]LogShaderCompilers: Display: Time job spent in pending queue: average 0.13 s, longest 1.18 s
+[2023.06.08-18.34.39:182][971]LogShaderCompilers: Display: Job execution time: average 0.55 s, max 1.31 s
+[2023.06.08-18.34.39:182][971]LogShaderCompilers: Display: Job life time (pending + execution): average 0.65 s, max 1.33
+[2023.06.08-18.34.39:182][971]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.25 s
+[2023.06.08-18.34.39:182][971]LogShaderCompilers: Display: Jobs were issued in 24 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.06.08-18.34.39:182][971]LogShaderCompilers: Display: Average processing rate: 4.92 jobs/sec
+[2023.06.08-18.34.39:182][971]LogShaderCompilers: Display: Total thread time: 3,987 s
+[2023.06.08-18.34.39:182][971]LogShaderCompilers: Display: Total thread preprocess time: 0,169 s
+[2023.06.08-18.34.39:182][971]LogShaderCompilers: Display: Percentage time preprocessing: 4.24%
+[2023.06.08-18.34.39:182][971]LogShaderCompilers: Display: Effective parallelization: 1.23 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.06.08-18.34.39:182][971]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.06.08-18.34.39:182][971]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.46 sec, max 0.68 sec, min 0.24 sec)
+[2023.06.08-18.34.39:182][971]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2023.06.08-18.34.39:182][971]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.35 sec, max 0.35 sec, min 0.35 sec)
+[2023.06.08-18.34.39:182][971]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 0.33 sec, max 0.33 sec, min 0.33 sec)
+[2023.06.08-18.34.39:182][971]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2023.06.08-18.34.39:182][971]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.06.08-18.34.39:182][971]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 23.11% of total time (compiled    2 times, average 0.46 sec, max 0.68 sec, min 0.24 sec)
+[2023.06.08-18.34.39:182][971]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.28% of total time (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2023.06.08-18.34.39:182][971]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.90% of total time (compiled    1 times, average 0.35 sec, max 0.35 sec, min 0.35 sec)
+[2023.06.08-18.34.39:182][971]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 8.22% of total time (compiled    1 times, average 0.33 sec, max 0.33 sec, min 0.33 sec)
+[2023.06.08-18.34.39:182][971]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.66% of total time (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2023.06.08-18.34.39:182][971]LogShaderCompilers: Display: ================================================
+[2023.06.08-18.34.39:377][991]LogTexture: Display: Building textures: /Game/_ZombieProject/Material/Textures/LP_DefaultMaterial_AO.LP_DefaultMaterial_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.06.08-18.34.39:388][992]LogTexture: Display: Building textures: /Game/_ZombieProject/Material/Textures/LP_DefaultMaterial_Metallic.LP_DefaultMaterial_Metallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.06.08-18.34.39:450][997]LogTexture: Display: Building textures: /Game/_ZombieProject/Material/Textures/LP_DefaultMaterial_Roughness.LP_DefaultMaterial_Roughness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.06.08-18.34.39:648][ 10]LogTexture: Display: Building textures: /Game/_ZombieProject/Material/Textures/LP_DefaultMaterial_BaseColor.LP_DefaultMaterial_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.06.08-18.34.39:708][ 15]LogTexture: Display: Building textures: /Game/_ZombieProject/Material/Textures/LP_DefaultMaterial_Normal.LP_DefaultMaterial_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.06.08-18.34.43:510][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.06.08-18.34.43:544][350]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.08-18.34.43:545][350]LogAssetEditorSubsystem: Opening Asset editor for World /Game/_ZombieProject/Maps/Mario.Mario
+[2023.06.08-18.34.43:545][350]Cmd: MAP LOAD FILE="../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Content/_ZombieProject/Maps/Mario.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.06.08-18.34.43:545][350]LightingResults: New page: Lighting Build
+[2023.06.08-18.34.43:545][350]LoadErrors: New page: Loading map: Mario.umap
+[2023.06.08-18.34.43:547][350]LogWorld: UWorld::CleanupWorld for Oriol, bSessionEnded=true, bCleanupResources=true
+[2023.06.08-18.34.43:547][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.08-18.34.43:550][350]LogContentBundle: [Oriol(Standalone)] Deleting container.
+[2023.06.08-18.34.43:550][350]MapCheck: New page: Map Check
+[2023.06.08-18.34.43:550][350]LightingResults: New page: Lighting Build
+[2023.06.08-18.34.43:555][350]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.08-18.34.43:559][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.06.08-18.34.43:561][350]LogWorld: UWorld::CleanupWorld for Mario, bSessionEnded=true, bCleanupResources=true
+[2023.06.08-18.34.43:561][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.08-18.34.43:566][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.06.08-18.34.43:570][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.06.08-18.34.43:576][350]LogAudio: Display: Audio Device (ID: 1) registered with world 'Mario'.
+[2023.06.08-18.34.43:576][350]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.08-18.34.43:576][350]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.08-18.34.43:576][350]LogAIModule: Creating AISystem for world Mario
+[2023.06.08-18.34.43:576][350]LogWorldPartition: ULevel::OnLevelLoaded(Mario)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.06.08-18.34.43:576][350]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.06.08-18.34.43:576][350]LogWorldPartition: UWorldPartition::Initialize(Asset=Mario, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.06.08-18.34.43:593][350]LogContentBundle: [Mario(Standalone)] Creating new contrainer.
+[2023.06.08-18.34.43:593][350]LogWorldPartition: Display: WorldPartition initialize took 17 ms (total: 447 ms)
+[2023.06.08-18.34.43:600][350]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.08-18.34.43:608][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.06.08-18.34.43:611][350]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.08-18.34.43:611][350]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,178ms to complete.
+[2023.06.08-18.34.43:611][350]LogFileHelpers: Loading map 'Mario' took 0.067
+[2023.06.08-18.34.43:632][350]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.08-18.34.48:131][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.06.08-18.34.48:162][845]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.08-18.34.48:163][845]LogAssetEditorSubsystem: Opening Asset editor for World /Game/_ZombieProject/Maps/Ignasi.Ignasi
+[2023.06.08-18.34.48:163][845]Cmd: MAP LOAD FILE="../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Content/_ZombieProject/Maps/Ignasi.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.06.08-18.34.48:163][845]LightingResults: New page: Lighting Build
+[2023.06.08-18.34.48:163][845]LoadErrors: New page: Loading map: Ignasi.umap
+[2023.06.08-18.34.48:164][845]LogWorld: UWorld::CleanupWorld for Mario, bSessionEnded=true, bCleanupResources=true
+[2023.06.08-18.34.48:164][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.08-18.34.48:167][845]LogContentBundle: [Mario(Standalone)] Deleting container.
+[2023.06.08-18.34.48:167][845]MapCheck: New page: Map Check
+[2023.06.08-18.34.48:167][845]LightingResults: New page: Lighting Build
+[2023.06.08-18.34.48:171][845]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.08-18.34.48:173][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.06.08-18.34.48:174][845]LogWorld: UWorld::CleanupWorld for Ignasi, bSessionEnded=true, bCleanupResources=true
+[2023.06.08-18.34.48:174][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.08-18.34.48:180][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.06.08-18.34.48:184][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.06.08-18.34.48:189][845]LogAudio: Display: Audio Device (ID: 1) registered with world 'Ignasi'.
+[2023.06.08-18.34.48:189][845]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.08-18.34.48:189][845]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.08-18.34.48:189][845]LogAIModule: Creating AISystem for world Ignasi
+[2023.06.08-18.34.48:189][845]LogWorldPartition: ULevel::OnLevelLoaded(Ignasi)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.06.08-18.34.48:189][845]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.06.08-18.34.48:189][845]LogWorldPartition: UWorldPartition::Initialize(Asset=Ignasi, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.06.08-18.34.48:244][845]LogContentBundle: [Ignasi(Standalone)] Creating new contrainer.
+[2023.06.08-18.34.48:244][845]LogWorldPartition: Display: WorldPartition initialize took 54 ms (total: 501 ms)
+[2023.06.08-18.34.48:263][845]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.08-18.34.48:272][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.06.08-18.34.48:275][845]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.08-18.34.48:276][845]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,359ms to complete.
+[2023.06.08-18.34.48:276][845]LogFileHelpers: Loading map 'Ignasi' took 0.113
+[2023.06.08-18.34.48:293][845]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.08-18.34.49:630][983]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.08-18.34.55:446][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.06.08-18.34.55:481][591]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.08-18.34.55:482][591]LogAssetEditorSubsystem: Opening Asset editor for World /Game/_ZombieProject/Maps/Oscar.Oscar
+[2023.06.08-18.34.55:482][591]Cmd: MAP LOAD FILE="../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Content/_ZombieProject/Maps/Oscar.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.06.08-18.34.55:482][591]LightingResults: New page: Lighting Build
+[2023.06.08-18.34.55:482][591]LoadErrors: New page: Loading map: Oscar.umap
+[2023.06.08-18.34.55:514][591]LogWorld: UWorld::CleanupWorld for Ignasi, bSessionEnded=true, bCleanupResources=true
+[2023.06.08-18.34.55:514][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.08-18.34.55:517][591]LogContentBundle: [Ignasi(Standalone)] Deleting container.
+[2023.06.08-18.34.55:518][591]MapCheck: New page: Map Check
+[2023.06.08-18.34.55:518][591]LightingResults: New page: Lighting Build
+[2023.06.08-18.34.55:522][591]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.08-18.34.55:527][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.06.08-18.34.55:529][591]LogWorld: UWorld::CleanupWorld for Oscar, bSessionEnded=true, bCleanupResources=true
+[2023.06.08-18.34.55:529][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.08-18.34.55:535][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.06.08-18.34.55:539][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.06.08-18.34.55:543][591]LogAudio: Display: Audio Device (ID: 1) registered with world 'Oscar'.
+[2023.06.08-18.34.55:543][591]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.08-18.34.55:544][591]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.08-18.34.55:544][591]LogAIModule: Creating AISystem for world Oscar
+[2023.06.08-18.34.55:544][591]LogWorldPartition: ULevel::OnLevelLoaded(Oscar)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.06.08-18.34.55:544][591]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.06.08-18.34.55:544][591]LogWorldPartition: UWorldPartition::Initialize(Asset=Oscar, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.06.08-18.34.55:605][591]LogContentBundle: [Oscar(Standalone)] Creating new contrainer.
+[2023.06.08-18.34.55:605][591]LogWorldPartition: Display: WorldPartition initialize took 60 ms (total: 562 ms)
+[2023.06.08-18.34.55:628][591]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.08-18.34.55:640][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.06.08-18.34.55:643][591]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.08-18.34.55:643][591]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,344ms to complete.
+[2023.06.08-18.34.55:643][591]LogFileHelpers: Loading map 'Oscar' took 0.162
+[2023.06.08-18.34.55:662][591]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.08-18.34.57:123][745]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.08-18.35.09:439][108]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.08-18.35.15:483][817]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.08-18.35.21:433][425]Cmd: DUPLICATE
+[2023.06.08-18.35.21:434][425]Cmd: ACTOR DUPLICATE
+[2023.06.08-18.35.21:472][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.08-18.36.20:289][215]Cmd: DUPLICATE
+[2023.06.08-18.36.20:289][215]Cmd: ACTOR DUPLICATE
+[2023.06.08-18.36.20:328][215]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.08-18.38.07:369][333]Cmd: DUPLICATE
+[2023.06.08-18.38.07:369][333]Cmd: ACTOR DUPLICATE
+[2023.06.08-18.38.07:405][333]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.08-18.38.56:595][310]Cmd: DELETE
+[2023.06.08-18.38.56:595][310]Cmd: ACTOR DELETE
+[2023.06.08-18.38.56:597][310]LogEditorActor: Deleted Actor: BP_Backside_Door_C
+[2023.06.08-18.38.56:608][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.08-18.38.56:610][310]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2023.06.08-18.39.35:965][ 37]Cmd: DUPLICATE
+[2023.06.08-18.39.35:965][ 37]Cmd: ACTOR DUPLICATE
+[2023.06.08-18.39.36:003][ 37]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.08-18.40.48:010][456]Cmd: DUPLICATE
+[2023.06.08-18.40.48:010][456]Cmd: ACTOR DUPLICATE
+[2023.06.08-18.41.24:842][ 11]LogEditorViewport: Clicking Background
+[2023.06.08-18.42.41:217][533]LogEditorViewport: Clicking Background
+[2023.06.08-18.43.15:826][581]LogEditorViewport: Clicking Background
+[2023.06.08-18.43.21:393][ 79]Cmd: DUPLICATE
+[2023.06.08-18.43.21:393][ 79]Cmd: ACTOR DUPLICATE
+[2023.06.08-18.43.30:657][854]Cmd: TRANSACTION UNDO
+[2023.06.08-18.43.30:657][854]LogEditorTransaction: Undo Rotate Elements
+[2023.06.08-18.43.30:743][854]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.08-18.43.31:027][868]Cmd: TRANSACTION UNDO
+[2023.06.08-18.43.31:027][868]LogEditorTransaction: Undo Move Elements
+[2023.06.08-18.43.31:089][868]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.08-18.43.31:572][912]Cmd: TRANSACTION UNDO
+[2023.06.08-18.43.31:572][912]LogEditorTransaction: Undo Move Elements
+[2023.06.08-18.43.31:619][912]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.08-18.43.32:731][ 18]Cmd: DELETE
+[2023.06.08-18.43.32:732][ 18]Cmd: ACTOR DELETE
+[2023.06.08-18.43.32:824][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.06.08-18.43.32:842][ 18]LogEditorActor: Deleted 1 Components (0.110 secs)
+[2023.06.08-18.43.42:046][882]Cmd: DUPLICATE
+[2023.06.08-18.43.42:046][882]Cmd: ACTOR DUPLICATE
+[2023.06.08-18.43.42:088][882]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.08-18.44.40:334][322]LogEditorViewport: Clicking Background
+[2023.06.08-18.44.56:186][953]Cmd: TRANSACTION UNDO
+[2023.06.08-18.44.56:186][953]LogEditorTransaction: Undo Clicking on Elements
+[2023.06.08-18.44.56:244][953]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.08-18.46.40:154][985]LogEditorViewport: Clicking Background
+[2023.06.08-18.46.47:966][804]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.08-18.46.47:988][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.06.08-18.46.47:996][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.06.08-18.46.48:000][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.06.08-18.46.48:002][804]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_ZombieProject/Maps/Oscar/1/OU/QF8L6A05207J3ACJGXPREU
+[2023.06.08-18.46.48:003][804]LogSavePackage: Moving '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Saved/QF8L6A05207J3ACJGXPREU999354574776646E7F6F6AB07EE89273.tmp' to '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Content/__ExternalActors__/_ZombieProject/Maps/Oscar/1/OU/QF8L6A05207J3ACJGXPREU.uasset'
+[2023.06.08-18.46.48:005][804]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_ZombieProject/Maps/Oscar/1/AX/G6AS8R9EIU6E7RI3DA9LVZ
+[2023.06.08-18.46.48:005][804]LogSavePackage: Moving '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Saved/G6AS8R9EIU6E7RI3DA9LVZE21CB0D14116DACF68D9E9A6CB709AC8.tmp' to '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Content/__ExternalActors__/_ZombieProject/Maps/Oscar/1/AX/G6AS8R9EIU6E7RI3DA9LVZ.uasset'
+[2023.06.08-18.46.48:007][804]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_ZombieProject/Maps/Oscar/2/IZ/4EMEKAIPD3VP0Y9IPEBYCE
+[2023.06.08-18.46.48:007][804]LogSavePackage: Moving '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Saved/4EMEKAIPD3VP0Y9IPEBYCEC84503B0477352265D6AB5BCA0D18EC5.tmp' to '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Content/__ExternalActors__/_ZombieProject/Maps/Oscar/2/IZ/4EMEKAIPD3VP0Y9IPEBYCE.uasset'
+[2023.06.08-18.46.48:009][804]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_ZombieProject/Maps/Oscar/4/P1/2R7RSEQHQPADX3RAOD1EWS
+[2023.06.08-18.46.48:009][804]LogSavePackage: Moving '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Saved/2R7RSEQHQPADX3RAOD1EWS74C802FD4445E65ECECC19ABFAEE35AD.tmp' to '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Content/__ExternalActors__/_ZombieProject/Maps/Oscar/4/P1/2R7RSEQHQPADX3RAOD1EWS.uasset'
+[2023.06.08-18.46.48:010][804]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_ZombieProject/Maps/Oscar/4/C9/K7OZ0883U3HCSCCTRQFSP7
+[2023.06.08-18.46.48:012][804]LogSavePackage: Moving '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Saved/K7OZ0883U3HCSCCTRQFSP71764495F48323A7124621EB023A0F314.tmp' to '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Content/__ExternalActors__/_ZombieProject/Maps/Oscar/4/C9/K7OZ0883U3HCSCCTRQFSP7.uasset'
+[2023.06.08-18.46.48:013][804]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_ZombieProject/Maps/Oscar/7/X3/YBNA6H44TEWLT22ZVCRAOT
+[2023.06.08-18.46.48:013][804]LogSavePackage: Moving '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Saved/YBNA6H44TEWLT22ZVCRAOTA99D4469461C8435DBAD22B394DDBB37.tmp' to '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Content/__ExternalActors__/_ZombieProject/Maps/Oscar/7/X3/YBNA6H44TEWLT22ZVCRAOT.uasset'
+[2023.06.08-18.46.48:015][804]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_ZombieProject/Maps/Oscar/7/GY/ZI6SMMK00KYRCJOTS0SU85
+[2023.06.08-18.46.48:015][804]LogSavePackage: Moving '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Saved/ZI6SMMK00KYRCJOTS0SU85CB8C55F34F80B923D7CB2B93941D813F.tmp' to '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Content/__ExternalActors__/_ZombieProject/Maps/Oscar/7/GY/ZI6SMMK00KYRCJOTS0SU85.uasset'
+[2023.06.08-18.46.48:017][804]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_ZombieProject/Maps/Oscar/7/UD/061S6NN67KGPQDZUKUHUAO
+[2023.06.08-18.46.48:017][804]LogSavePackage: Moving '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Saved/061S6NN67KGPQDZUKUHUAO978E62814C679F328AE72387FFFCDF0D.tmp' to '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Content/__ExternalActors__/_ZombieProject/Maps/Oscar/7/UD/061S6NN67KGPQDZUKUHUAO.uasset'
+[2023.06.08-18.46.48:018][804]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_ZombieProject/Maps/Oscar/7/KF/IUFXAP7NWFPB46I3R7Z2WW
+[2023.06.08-18.46.48:019][804]LogSavePackage: Moving '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Saved/IUFXAP7NWFPB46I3R7Z2WW1E4BEEB9482E7CF5BB046E99B09A9CBB.tmp' to '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Content/__ExternalActors__/_ZombieProject/Maps/Oscar/7/KF/IUFXAP7NWFPB46I3R7Z2WW.uasset'
+[2023.06.08-18.46.48:020][804]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_ZombieProject/Maps/Oscar/8/V1/5N1OFT40FJ3GWVH5GG9QLT
+[2023.06.08-18.46.48:020][804]LogSavePackage: Moving '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Saved/5N1OFT40FJ3GWVH5GG9QLT0AD214004F909F48827FE09A67533951.tmp' to '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Content/__ExternalActors__/_ZombieProject/Maps/Oscar/8/V1/5N1OFT40FJ3GWVH5GG9QLT.uasset'
+[2023.06.08-18.46.48:022][804]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_ZombieProject/Maps/Oscar/8/UP/AIAHV31F6URC0WCM4P0RPU
+[2023.06.08-18.46.48:022][804]LogSavePackage: Moving '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Saved/AIAHV31F6URC0WCM4P0RPU328BADDE4589210B8CBB3C9211DE9581.tmp' to '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Content/__ExternalActors__/_ZombieProject/Maps/Oscar/8/UP/AIAHV31F6URC0WCM4P0RPU.uasset'
+[2023.06.08-18.46.48:023][804]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_ZombieProject/Maps/Oscar/8/29/5VENSP766H1CA2UU1PPDU0
+[2023.06.08-18.46.48:023][804]LogSavePackage: Moving '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Saved/5VENSP766H1CA2UU1PPDU080B10DFB44604EA34C3D3B942DCEC6A6.tmp' to '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Content/__ExternalActors__/_ZombieProject/Maps/Oscar/8/29/5VENSP766H1CA2UU1PPDU0.uasset'
+[2023.06.08-18.46.48:025][804]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_ZombieProject/Maps/Oscar/8/5A/NF7RK9IPVA3NR0ZQ0LVVO7
+[2023.06.08-18.46.48:025][804]LogSavePackage: Moving '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Saved/NF7RK9IPVA3NR0ZQ0LVVO7461804DC4050F7C054336290ACFC2FA7.tmp' to '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Content/__ExternalActors__/_ZombieProject/Maps/Oscar/8/5A/NF7RK9IPVA3NR0ZQ0LVVO7.uasset'
+[2023.06.08-18.46.48:026][804]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_ZombieProject/Maps/Oscar/8/8E/449SIEQZZSUBGI5JBZEU9Q
+[2023.06.08-18.46.48:027][804]LogSavePackage: Moving '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Saved/449SIEQZZSUBGI5JBZEU9QA624C2B247987D746A6671A548681D87.tmp' to '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Content/__ExternalActors__/_ZombieProject/Maps/Oscar/8/8E/449SIEQZZSUBGI5JBZEU9Q.uasset'
+[2023.06.08-18.46.48:028][804]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_ZombieProject/Maps/Oscar/9/WQ/FJX6ZT26T8UBXO1EMW3WOS
+[2023.06.08-18.46.48:028][804]LogSavePackage: Moving '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Saved/FJX6ZT26T8UBXO1EMW3WOS9B0726B449B34A2A8B04DFB3D244D544.tmp' to '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Content/__ExternalActors__/_ZombieProject/Maps/Oscar/9/WQ/FJX6ZT26T8UBXO1EMW3WOS.uasset'
+[2023.06.08-18.46.48:030][804]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_ZombieProject/Maps/Oscar/9/DH/9SHC1LWLVQMKAUUOHRQBYO
+[2023.06.08-18.46.48:030][804]LogSavePackage: Moving '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Saved/9SHC1LWLVQMKAUUOHRQBYO67E75EF04615481B498BAA9A4D1E922B.tmp' to '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Content/__ExternalActors__/_ZombieProject/Maps/Oscar/9/DH/9SHC1LWLVQMKAUUOHRQBYO.uasset'
+[2023.06.08-18.46.48:031][804]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_ZombieProject/Maps/Oscar/B/HC/1PGQL7X7761RLFWWTRPTDP
+[2023.06.08-18.46.48:031][804]LogSavePackage: Moving '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Saved/1PGQL7X7761RLFWWTRPTDPDD5894724AE43817D0CB6C8FA5103556.tmp' to '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Content/__ExternalActors__/_ZombieProject/Maps/Oscar/B/HC/1PGQL7X7761RLFWWTRPTDP.uasset'
+[2023.06.08-18.46.48:032][804]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_ZombieProject/Maps/Oscar/B/WM/GMCPKWIQYCB3KUT9X6EIPW
+[2023.06.08-18.46.48:033][804]LogSavePackage: Moving '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Saved/GMCPKWIQYCB3KUT9X6EIPWE90C9C4C4E4659C6EF31DEA2A24E201C.tmp' to '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Content/__ExternalActors__/_ZombieProject/Maps/Oscar/B/WM/GMCPKWIQYCB3KUT9X6EIPW.uasset'
+[2023.06.08-18.46.48:034][804]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_ZombieProject/Maps/Oscar/D/P3/98JED4SMN72RI20JXYFDRQ
+[2023.06.08-18.46.48:035][804]LogSavePackage: Moving '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Saved/98JED4SMN72RI20JXYFDRQEC3F452A4AC666A296EE4FA6D75D2BE2.tmp' to '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Content/__ExternalActors__/_ZombieProject/Maps/Oscar/D/P3/98JED4SMN72RI20JXYFDRQ.uasset'
+[2023.06.08-18.46.48:036][804]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_ZombieProject/Maps/Oscar/8/FM/W44GEZA66A5XG97WUZMBKQ
+[2023.06.08-18.46.48:036][804]LogSavePackage: Moving '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Saved/W44GEZA66A5XG97WUZMBKQ9216AD914A68755760145087C1A11196.tmp' to '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Content/__ExternalActors__/_ZombieProject/Maps/Oscar/8/FM/W44GEZA66A5XG97WUZMBKQ.uasset'
+[2023.06.08-18.46.48:038][804]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_ZombieProject/Maps/Oscar/F/28/UY5EF5PMNPJHTY9OGA9MWY
+[2023.06.08-18.46.48:038][804]LogSavePackage: Moving '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Saved/UY5EF5PMNPJHTY9OGA9MWY55BDD530418C48FDE86A15B026E88AE5.tmp' to '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Content/__ExternalActors__/_ZombieProject/Maps/Oscar/F/28/UY5EF5PMNPJHTY9OGA9MWY.uasset'
+[2023.06.08-18.46.48:039][804]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_ZombieProject/Maps/Oscar/A/31/N3ID1ZQ8A4CF6W1I97DKHD
+[2023.06.08-18.46.48:039][804]LogSavePackage: Moving '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Saved/N3ID1ZQ8A4CF6W1I97DKHD687A4DB548B08E0CF6C4D4AEC2E34773.tmp' to '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Content/__ExternalActors__/_ZombieProject/Maps/Oscar/A/31/N3ID1ZQ8A4CF6W1I97DKHD.uasset'
+[2023.06.08-18.46.48:040][804]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_ZombieProject/Maps/Oscar/9/UW/CWRIBHBJMZ2ILMZTRLVNRR
+[2023.06.08-18.46.48:040][804]LogSavePackage: Moving '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Saved/CWRIBHBJMZ2ILMZTRLVNRRE58226BF44EE6CD7115475B7DEAAC74B.tmp' to '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Content/__ExternalActors__/_ZombieProject/Maps/Oscar/9/UW/CWRIBHBJMZ2ILMZTRLVNRR.uasset'
+[2023.06.08-18.46.48:042][804]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_ZombieProject/Maps/Oscar/2/EF/TMKDWXHUXNS4K4I57BRDU4
+[2023.06.08-18.46.48:042][804]LogSavePackage: Moving '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Saved/TMKDWXHUXNS4K4I57BRDU43F0C711048064D024989E0B536B866BC.tmp' to '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Content/__ExternalActors__/_ZombieProject/Maps/Oscar/2/EF/TMKDWXHUXNS4K4I57BRDU4.uasset'
+[2023.06.08-18.46.48:043][804]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/_ZombieProject/Maps/Oscar/C/78/PQ9KOYYXI749O7F7CRNWUA
+[2023.06.08-18.46.48:043][804]LogSavePackage: Moving '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Saved/PQ9KOYYXI749O7F7CRNWUAA9DBB5D7491B8EA297C72F83B2B57A18.tmp' to '../../../../../../Users/Oscar/Documents/GitHub/UnrealEngine_CITM/ZombieGame/Content/__ExternalActors__/_ZombieProject/Maps/Oscar/C/78/PQ9KOYYXI749O7F7CRNWUA.uasset'
+[2023.06.08-18.46.48:053][804]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 1.24 sec)
+[2023.06.08-18.46.48:056][804]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.08-18.46.48:056][804]LogContentValidation: Display: Validating /Game/ModernHouse/Blueprints/BP_Backside_Door.BP_Backside_Door_C /Game/_ZombieProject/Maps/Oscar.Oscar:PersistentLevel.BP_Backside_Door_C_UAID_A036BCBD0C7C6D8A01_1095860141
+[2023.06.08-18.46.48:056][804]LogContentValidation: Display: Validating /Game/ModernHouse/Blueprints/BP_Backside_Door.BP_Backside_Door_C /Game/_ZombieProject/Maps/Oscar.Oscar:PersistentLevel.BP_Backside_Door_C_UAID_A036BCBD0C7C6C8A01_1226803925
+[2023.06.08-18.46.48:056][804]LogContentValidation: Display: Validating /Game/ModernHouse/Blueprints/BP_Backside_Door.BP_Backside_Door_C /Game/_ZombieProject/Maps/Oscar.Oscar:PersistentLevel.BP_Backside_Door_C_UAID_A036BCBD0C7C6C8A01_1226795909
+[2023.06.08-18.46.48:056][804]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/_ZombieProject/Maps/Oscar.Oscar:PersistentLevel.StaticMeshActor_UAID_A036BCBD0C7C6C8A01_1464048946
+[2023.06.08-18.46.48:056][804]LogContentValidation: Display: Validating /Game/ModernHouse/Blueprints/BP_Backside_Door.BP_Backside_Door_C /Game/_ZombieProject/Maps/Oscar.Oscar:PersistentLevel.BP_Backside_Door_C_UAID_A036BCBD0C7C6C8A01_1226792906
+[2023.06.08-18.46.48:056][804]LogContentValidation: Display: Validating /Game/ModernHouse/Blueprints/BP_Backside_Door.BP_Backside_Door_C /Game/_ZombieProject/Maps/Oscar.Oscar:PersistentLevel.BP_Backside_Door_C_UAID_A036BCBD0C7C6C8A01_1226807931
+[2023.06.08-18.46.48:056][804]LogContentValidation: Display: Validating /Game/ModernHouse/Blueprints/BP_Backside_Door.BP_Backside_Door_C /Game/_ZombieProject/Maps/Oscar.Oscar:PersistentLevel.BP_Backside_Door_C_UAID_A036BCBD0C7C6C8A01_1226806929
+[2023.06.08-18.46.48:056][804]LogContentValidation: Display: Validating /Game/ModernHouse/Blueprints/BP_Backside_Door.BP_Backside_Door_C /Game/_ZombieProject/Maps/Oscar.Oscar:PersistentLevel.BP_Backside_Door_C_UAID_A036BCBD0C7C6C8A01_1226796910
+[2023.06.08-18.46.48:056][804]LogContentValidation: Display: Validating /Game/ModernHouse/Blueprints/BP_Backside_Door.BP_Backside_Door_C /Game/_ZombieProject/Maps/Oscar.Oscar:PersistentLevel.BP_Backside_Door_C_UAID_A036BCBD0C7C6C8A01_1226793907
+[2023.06.08-18.46.48:056][804]LogContentValidation: Display: Validating /Game/ModernHouse/Blueprints/BP_Backside_Door.BP_Backside_Door_C /Game/_ZombieProject/Maps/Oscar.Oscar:PersistentLevel.BP_Backside_Door_C_UAID_A036BCBD0C7C6C8A01_1226797912
+[2023.06.08-18.46.48:056][804]LogContentValidation: Display: Validating /Game/ModernHouse/Blueprints/BP_Backside_Door.BP_Backside_Door_C /Game/_ZombieProject/Maps/Oscar.Oscar:PersistentLevel.BP_Backside_Door_C_UAID_A036BCBD0C7C6C8A01_1226798915
+[2023.06.08-18.46.48:056][804]LogContentValidation: Display: Validating /Game/ModernHouse/Blueprints/BP_Backside_Door.BP_Backside_Door_C /Game/_ZombieProject/Maps/Oscar.Oscar:PersistentLevel.BP_Backside_Door_C_UAID_A036BCBD0C7C6C8A01_1226797913
+[2023.06.08-18.46.48:056][804]LogContentValidation: Display: Validating /Game/ModernHouse/Blueprints/BP_Backside_Door.BP_Backside_Door_C /Game/_ZombieProject/Maps/Oscar.Oscar:PersistentLevel.BP_Backside_Door_C_UAID_A036BCBD0C7C6C8A01_1226792905
+[2023.06.08-18.46.48:056][804]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/_ZombieProject/Maps/Oscar.Oscar:PersistentLevel.StaticMeshActor_UAID_A036BCBD0C7C6D8A01_2027916156
+[2023.06.08-18.46.48:056][804]LogContentValidation: Display: Validating /Game/ModernHouse/Blueprints/BP_Backside_Door.BP_Backside_Door_C /Game/_ZombieProject/Maps/Oscar.Oscar:PersistentLevel.BP_Backside_Door_C_UAID_A036BCBD0C7C6D8A01_1107016142
+[2023.06.08-18.46.48:056][804]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/_ZombieProject/Maps/Oscar.Oscar:PersistentLevel.StaticMeshActor_UAID_A036BCBD0C7C6C8A01_1464053956
+[2023.06.08-18.46.48:056][804]LogContentValidation: Display: Validating /Game/ModernHouse/Blueprints/BP_Backside_Door.BP_Backside_Door_C /Game/_ZombieProject/Maps/Oscar.Oscar:PersistentLevel.BP_Backside_Door_C_UAID_A036BCBD0C7C6C8A01_1226802922
+[2023.06.08-18.46.48:056][804]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/_ZombieProject/Maps/Oscar.Oscar:PersistentLevel.StaticMeshActor_UAID_A036BCBD0C7C6D8A01_1920839155
+[2023.06.08-18.46.48:056][804]LogContentValidation: Display: Validating /Game/ModernHouse/Blueprints/BP_Backside_Door.BP_Backside_Door_C /Game/_ZombieProject/Maps/Oscar.Oscar:PersistentLevel.BP_Backside_Door_C_UAID_A036BCBD0C7C6C8A01_1226798914
+[2023.06.08-18.46.48:056][804]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/_ZombieProject/Maps/Oscar.Oscar:PersistentLevel.StaticMeshActor_UAID_A036BCBD0C7C6D8A01_1920837154
+[2023.06.08-18.46.48:056][804]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/_ZombieProject/Maps/Oscar.Oscar:PersistentLevel.StaticMeshActor_UAID_A036BCBD0C7C6D8A01_1861981153
+[2023.06.08-18.46.48:056][804]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/_ZombieProject/Maps/Oscar.Oscar:PersistentLevel.StaticMeshActor_UAID_A036BCBD0C7C6D8A01_2116513157
+[2023.06.08-18.46.48:056][804]LogContentValidation: Display: Validating /Game/ModernHouse/Blueprints/BP_Backside_Door.BP_Backside_Door_C /Game/_ZombieProject/Maps/Oscar.Oscar:PersistentLevel.BP_Backside_Door_C_UAID_A036BCBD0C7C6C8A01_1226807932
+[2023.06.08-18.46.48:056][804]LogContentValidation: Display: Validating /Game/ModernHouse/Blueprints/BP_Backside_Door.BP_Backside_Door_C /Game/_ZombieProject/Maps/Oscar.Oscar:PersistentLevel.BP_Backside_Door_C_UAID_A036BCBD0C7C6C8A01_1226802923
+[2023.06.08-18.46.48:056][804]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/_ZombieProject/Maps/Oscar.Oscar:PersistentLevel.StaticMeshActor_UAID_A036BCBD0C7C6E8A01_1288851334
+[2023.06.08-18.46.48:068][804]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
